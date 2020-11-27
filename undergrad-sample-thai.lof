@@ -1,7 +1,26 @@
 \addvspace {0em}
-\contentsline {figure}{\numberline {1.1}{\ignorespaces This is the figure x11}}{1}{}%
 \addvspace {0em}
-\contentsline {figure}{\numberline {2.1}{\ignorespaces The network model}}{2}{}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces ตัวอย่าง layer ของ การเรียนรู้เชิงลึกของคอมพิวเตอร์}}{3}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces แสดงตัวอย่างโครงข่าย CNN ที่ประกอบด้วย 1. convolutional layer 2. pooling layer 3. fully connected layer }}{4}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces ตัวอย่างการทำ Max pooling และ mean pooling}}{4}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces ภาพอธิบายตัวอย่างของ Transfer Learning}}{5}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces ภาพอธิบายตัวอย่างของ Transfer Learning}}{6}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces ภาพอธิบายตัวอย่างของ Transfer Learning}}{6}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces ภาพตัวอย่างการทำ image segmentation บนภาพ}}{7}{}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces ภาพตัวอย่างขั้นตอนการแปลงเอกสารมาอยู่ในรูปแบบข้อมูลด้วยกระบวนการ OCR}}{8}{}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces ภาพตัวอย่างการทำงานของ Blob coloring}}{8}{}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces ภาพตัวอย่างการทำงานของ Blob coloring}}{9}{}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces ภาพตัวอย่างการทำงานของ Blob coloring}}{10}{}%
 \addvspace {0em}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces ภาพตัวอย่างการทำงานของ Blob coloring}}{12}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces ภาพตัวอย่างการทำงานของ Blob coloring}}{13}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการประมวลผลภาพ}}{14}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการแยกภาพ}}{14}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{15}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{15}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{16}{}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{17}{}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{18}{}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{19}{}%
 \addvspace {0em}
 \addvspace {0em}

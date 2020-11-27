@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.11) (preloaded format=xelatex 2020.11.26)  26 NOV 2020 18:45
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.11) (preloaded format=xelatex 2020.11.26)  27 NOV 2020 15:51
 entering extended mode
 **./undergrad-sample-thai.tex
 (undergrad-sample-thai.tex
@@ -309,11 +309,20 @@ erspace=0;extend=1.0;mapping=tex-text;"
 
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
 (Font)              scaled to size 12.29996pt on input line 10.
-\c@theorem=\count282
-\c@lemma=\count283
-\c@corollary=\count284
 
-(undergrad-sample-thai.aux)
+("C:\Program Files\MiKTeX\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count282
+\float@exts=\toks30
+\float@box=\box56
+\@float@everytoks=\toks31
+\@floatcapt=\box57
+)
+\c@theorem=\count283
+\c@lemma=\count284
+\c@corollary=\count285
+
+No file undergrad-sample-thai.aux.
 \openout1 = `undergrad-sample-thai.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
@@ -327,7 +336,7 @@ LaTeX Font Info:    ... okay on input line 106.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
 06.
- ("C:\Program Files\MiKTeX\tex/latex/base\ts1cmr.fd"
+("C:\Program Files\MiKTeX\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 106.
@@ -340,7 +349,8 @@ LaTeX Font Info:    ... okay on input line 106.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 106.
 LaTeX Font Info:    Trying to load font information for T3+cmr on input line 10
 6.
- ("C:\Program Files\MiKTeX\tex/latex/tipa\t3cmr.fd"
+
+("C:\Program Files\MiKTeX\tex/latex/tipa\t3cmr.fd"
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 106.
@@ -522,15 +532,21 @@ Package fontspec Warning: Language 'Thai' not available for font 'TH Sarabun
 (fontspec)                New:script=thai' with script 'CustomDefault'.
 
 
-Overfull \hbox (11.69609pt too wide) in paragraph at lines 144--145
-\TU/THSarabunNew:script=thai(0)/m/n/10 ระดับความพึงพอใจต่อการให้บริการงาน ทั่วไ
-ปของสานักวิชาพื้นฐานและภาษา ของนักศึกษาที่มาใช้บริการสานักวิชาพื้นฐานและภาษา
+Overfull \hbox (0.39377pt too wide) in paragraph at lines 144--145
+[]\TU/THSarabunNew:script=thai(0)/m/n/10 การวิจัยครั้งนี้มีวัตถุประสงค์ เพื่อศึ
+กษาความพึงพอใจในการให้บริการงานทั่วไปของสานักวิชา พื้นฐานและภาษา เพื่อ
  []
 
 
-Overfull \hbox (4.8971pt too wide) in paragraph at lines 144--145
-\TU/THSarabunNew:script=thai(0)/m/n/10 สถาบัน เทคโนโลยีไทย-ญี่ปุ่น จาแนกตามเพศ 
-คณะ และชั้นปีที่ศึกษา เพื่อศึกษาปัญหาและข้อเสนอแนะของ นักศึกษามาเป็นแนวทาง
+Overfull \hbox (5.23506pt too wide) in paragraph at lines 144--145
+\TU/THSarabunNew:script=thai(0)/m/n/10 เปรียบเทียบระดับความพึงพอใจต่อการให้บริก
+ารงาน ทั่วไปของสานักวิชาพื้นฐานและภาษา ของนักศึกษาที่มาใช้บริการสานักวิชาพื้น
+ []
+
+
+Overfull \hbox (3.51909pt too wide) in paragraph at lines 144--145
+\TU/THSarabunNew:script=thai(0)/m/n/10 ฐานและภาษา สถาบัน เทคโนโลยีไทย-ญี่ปุ่น จ
+าแนกตามเพศ คณะ และชั้นปีที่ศึกษา เพื่อศึกษาปัญหาและข้อเสนอแนะของ นักศึกษา
  []
 
 LaTeX Font Info:    Font shape `TU/THSarabunNew:script=thai(0)/b/n' will be
@@ -547,24 +563,26 @@ LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
 (Font)              scaled to size 14.75995pt on input line 159.
  [4
 
-] (undergrad-sample-thai.toc [5
-
-])
+]
+No file undergrad-sample-thai.toc.
 \tf@toc=\write3
 \openout3 = `undergrad-sample-thai.toc'.
 
- [6] (undergrad-sample-thai.lot)
+[5
+
+]
+No file undergrad-sample-thai.lot.
 \tf@lot=\write4
 \openout4 = `undergrad-sample-thai.lot'.
 
+[6
 
-[7
-
-] (undergrad-sample-thai.lof)
+]
+No file undergrad-sample-thai.lof.
 \tf@lof=\write5
 \openout5 = `undergrad-sample-thai.lof'.
 
- [8
+[7
 
 ]
 Overfull \hbox (1.72173pt too wide) in paragraph at lines 178--178
@@ -581,9 +599,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--182
 []|\TU/THSarabunNew(0)/m/n/10 jobs/
  []
 
-[9
+[8
 
-] [10
+] [9
 
 ]
 บทที่ 1.
@@ -591,72 +609,413 @@ LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
 (Font)              scaled to size 17.71193pt on input line 203.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
 (Font)              scaled to size 17.71193pt on input line 203.
+
+Overfull \hbox (0.99901pt too wide) in paragraph at lines 212--213
+\TU/THSarabunNew(0)/m/n/10 จำนวนหรือบวกคูณลบเลขผิด จึงไม่สามารถทำให้คำนวณเลขได้
+ สาเหตุของโรคการบกพร่องทางการเรียนรู้ที่เกิดจากการทำงานผิดปกติของ
+ []
+
+
+Overfull \hbox (0.3594pt too wide) in paragraph at lines 212--213
+\TU/THSarabunNew(0)/m/n/10 สมองมีได้หลายสาเหตุด้วยกัน เช่น การทำงานของสมองบางตำ
+แหน่งบกพร่อง กรรมพันธุ์ หรือความผิดปกติของโครโมโซม อ้างอิงจากข้อมูล
+ []
+
+
+Overfull \hbox (0.86281pt too wide) in paragraph at lines 212--213
+\TU/THSarabunNew(0)/m/n/10 ที่ได้มาจาก พญ.วินัดดา ปิยะศิลป์ในพ.ศ. 2554 คาดว่ามี
+เด็กที่เป็นโรคการบกพร่องทางการเรียนรู้ หรือ LD (Learning Disorders) ประมาณ
+ []
+
+
+Overfull \hbox (16.54617pt too wide) in paragraph at lines 212--213
+\TU/THSarabunNew(0)/m/n/10 วินิจฉัยโรคบกพร่องทางการเรียนรู้ได้ ซึ่งจะมีบุคลากรท
+างการแพทย์ควบคุมการทำแบบทดสอบและจำเป็นต้องให้แพทย์ผู้เชี่ยวชาญเป็นผู้วินิจฉัย
+ []
+
+
+Overfull \hbox (1.47868pt too wide) in paragraph at lines 212--213
+\TU/THSarabunNew(0)/m/n/10 กระบวนการนี้ใช้ระยะเวลานาน เนื่องจากบุคลากรการแพทย์ม
+ีจำกัด ทำให้ไม่สามารถรองรับเด็กเข้ามาทำแบบทดสอบได้เป็นจำนวนมากต่อ
+ []
+
+
+Overfull \hbox (14.94717pt too wide) in paragraph at lines 214--215
+[]\TU/THSarabunNew(0)/m/n/10 แอลดีสปอต นั้นจะช่วยให้การวินิจฉัยโรคการบกพร่องทาง
+การเรียนรู้เบื้องต้นในเด็กสามารถเข้าถึงได้ง่ายขึ้นโดยที่เด็กจะสามารถ
+ []
+
+
+Overfull \hbox (14.20917pt too wide) in paragraph at lines 214--215
+\TU/THSarabunNew(0)/m/n/10 ทำแบบทดสอบเบื้องต้นได้ผ่านทางแอปพลิเคชันก่อนที่จะเดิ
+นทางมาที่โรงพยาบาลเพื่อที่จะลดความซับซ้อนและระยะเวลาในการรอการวินิจฉัย
+ []
+
+
+Overfull \hbox (3.60074pt too wide) in paragraph at lines 223--224
+[]\TU/THSarabunNew(0)/m/n/10 เพื่อพัฒนาระบบวิเคราะห์รูปภาพลายมือเขียนของเด็กเพื
+่อวินิจฉัยโอกาสเป็นโรคการบกพร่องทางการเรียนรู้ด้านการเขียนและสะกด
+ []
+
+
+Overfull \hbox (1.23917pt too wide) in paragraph at lines 233--234
+[]\TU/THSarabunNew(0)/m/n/10 ระบบวิเคราะห์รูปภาพลายมือของเด็กซึ่งถูกสร้างขึ้นมา
+จากข้อมูลแบบทดสอบการเขียนของเด็กที่เป็นโรคการบกพร่องทางการเรียน
+ []
+
+
+Overfull \hbox (13.33005pt too wide) in paragraph at lines 235--236
+[]\TU/THSarabunNew(0)/m/n/10 ผลลัพธ์จะออกมาในรูปแบบจำนวนความผิดพลาดจากที่เขียนผ
+ิด และความน่าจะเป็นว่าเด็กมีความน่าจะเป็นที่โรคการบกพร่องทางการ
+ []
+
+
+Overfull \hbox (5.86397pt too wide) in paragraph at lines 235--236
+\TU/THSarabunNew(0)/m/n/10 เรียนรู้เท่าใด โดยตัวระบบจะเรียนรู้จากภาพการเขียนทดส
+อบของเด็กที่เป็นโรคการบกพร่องทางการเรียนรู้และภาพการเขียนทดสอบ
+ []
+
 [1
 
 ]
+Overfull \hbox (10.61171pt too wide) in paragraph at lines 236--237
+[]\TU/THSarabunNew(0)/m/n/10 ระบบจะแสดงผลลัพธ์ที่ได้จากการวินิจฉัยในแอปพลิเคชัน
+ โดยที่ผู้ปกครองและบุคลากรทางกาารแพทย์จะสามารถเข้ามาดูผลลัพธ์แล้ว
+ []
+
+[2]
 บทที่ 2.
+
+Overfull \hbox (8.4159pt too wide) in paragraph at lines 255--259
+[]\TU/THSarabunNew(0)/m/n/10 เนื่องจากตัวระบบที่เราสร้างขึ้นมาเพื่อวินิจฉัยโรคก
+ารเรียนรู้บกพร่องในเด็กนั้นจะต้องทำการเรียนรู้ข้อมูลลักษณะจุดเด่นต่างๆ
+ []
+
+
+Overfull \hbox (1.90926pt too wide) in paragraph at lines 255--259
+\TU/THSarabunNew(0)/m/n/10 ของภาพผลแบบทดสอบการเรียนรู้บกพร่องในเด็กว่า มีลักษณะ
+เด่นใดจึงจำแนกว่าเด็กคนนั้นมีโอกาสเป็นโรคการเรียนรู้บกพร่องในเด็ก จาก
+ []
+
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 13.52995pt on input line 270.
-File: ./model2.pdf Graphic file (type pdf)
-<use ./model2.pdf>
-[2
+(Font)              scaled to size 13.52995pt on input line 260.
 
-]
-บทที่ 3.
-
-Underfull \hbox (badness 10000) in paragraph at lines 307--308
-[]|\TU/THSarabunNew(0)/m/n/10 jobs/
+Overfull \hbox (0.7103pt too wide) in paragraph at lines 266--267
+[]\TU/THSarabunNew(0)/m/n/10 Hidden Layer มีหน้าที่สำหรับการประเมินข้อมูลที่ป้อ
+นเข้ามา เพื่อหาข้อมูลต่างๆที่ใช้ในการจำแนกประเภทโดยตัว Hidden Layer
  []
 
+File: ./DeepLearning.jpg Graphic file (type bmp)
+<./DeepLearning.jpg>
+! Undefined control sequence.
+l.275   \source
+               {[ที่มา : https://verneglobal.com/news/blog/deep-learning-at-...
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--308
-[]|\TU/THSarabunNew(0)/m/n/10 jobs/
+? 
+! Undefined control sequence.
+l.279 \FloatBarrierในปัจจุบันการทำ
+                                   การจำแนกประเภทรูปภาพ สำหรับทางด้านการแพทย...
+
+? 
+
+Overfull \hbox (0.3963pt too wide) in paragraph at lines 279--283
+[]\TU/THSarabunNew(0)/m/n/10 การจำแนกประเภทรูปภาพ สำหรับทางด้านการแพทย์กำลังเป็
+นที่สนใจ โครงข่ายประสาทเทียมแบบสังวัตนาการ หรือ CNN
  []
 
+File: ./cnn.jpg Graphic file (type bmp)
+<./cnn.jpg>
+! Undefined control sequence.
+l.290   \source
+               {[ที่มา : https://developers.google.com/machine-learning/prac...
+
+? 
 [3
 
-] [4]
+]
+
+LaTeX Warning: Reference `fig:pooling' on page 4 undefined on input line 298.
+
+File: ./pooling.png Graphic file (type bmp)
+<./pooling.png>
+! Undefined control sequence.
+l.304     \source
+                 {[ที่มา : https://stackoverflow.com/questions/44287965]}
+? 
+[4]
+File: ./transfer.jpg Graphic file (type bmp)
+<./transfer.jpg>
+
+! Undefined control sequence.
+l.320   \source
+               {[ที่มา : https://www.topbots.com/transfer-learning-in-nlp/]}
+? 
+[5]
+
+LaTeX Warning: Reference `fig:sigmoid' on page 6 undefined on input line 326.
+
+
+Overfull \hbox (0.26105pt too wide) in paragraph at lines 325--329
+[]\TU/THSarabunNew(0)/m/n/10 Activate function มีหน้าที่ในการปรับผลลัพธ์ ของ ne
+uron ในแต่ละ layer ก่อนจะส่งต่อไปเป็นข้อมูลนำเข้าสำหรับ layer
+ []
+
+File: ./sigmoid.jpg Graphic file (type bmp)
+<./sigmoid.jpg>
+! Undefined control sequence.
+l.335   \source
+               {[ที่มา : https://www.topbots.com/transfer-learning-in-nlp/]}
+? 
+File: ./relu.jpg Graphic file (type bmp)
+<./relu.jpg>
+! Undefined control sequence.
+l.350   \source
+               {[ที่มา : https://www.topbots.com/transfer-learning-in-nlp/]}
+? 
+[6]
+Overfull \hbox (17.22913pt too wide) in paragraph at lines 364--365
+[]\TU/THSarabunNew(0)/m/n/10 Region-Based Segmentation เป็นการแยกวัตถุออกจากภาพ
+ด้วยวิธีการใช้ค่า threshold เพื่อปรับภาพที่อยู่ในรูปแบบของ grayscale
+ []
+
+File: ./imagesegment.jpg Graphic file (type bmp)
+<./imagesegment.jpg>
+! Undefined control sequence.
+l.374   \source
+               {[ที่มา : https://www.learnopencv.com/applications-of-foregro...
+
+? 
+[7]
+Overfull \hbox (0.63pt too wide) in paragraph at lines 380--382
+\TU/THSarabunNew(0)/m/n/10 เก็บนำไปใช้ต่อ ซึ่งเราสามารถนำเทคโนโลยีไปประยุกต์ใช้
+ได้ในหลากหลายด้าน เช่น วิเคราะห์ทะเบียนรถยนต์ ด้านการทำระบบค้นหาข้อมูล
+ []
+
+File: ./ocr.jpg Graphic file (type bmp)
+<./ocr.jpg>
+! Undefined control sequence.
+l.388   \source
+               {[ที่มา : https://medium.com/states-title/using-nlp-bert-to-i...
+
+? 
+File: ./blob.jpg Graphic file (type bmp)
+<./blob.jpg>
+! Undefined control sequence.
+l.400   \source
+               {[ที่มา : http://what-when-how.com/introduction-to-video-and-...
+
+? 
+File: ./market.jpg Graphic file (type bmp)
+<./market.jpg>
+! Undefined control sequence.
+l.414   \source
+               {[ที่มา : http://what-when-how.com/introduction-to-video-and-...
+
+? 
+
+Overfull \hbox (9.19075pt too wide) in paragraph at lines 406--419
+[]\TU/THSarabunNew(0)/m/n/10 เนื่องด้วยด้วยเป้าหมายของโครงการที่่ต้องการพัฒนาแอ
+ปพลิเคชันให้สามารถใช้งานได้ในหลายแพลตฟอร์ม โดยปัจจุบันระบบ
+ []
+
+
+Overfull \hbox (1.50334pt too wide) in paragraph at lines 406--419
+\TU/THSarabunNew(0)/m/n/10 ปฎิบัติการแอนดรอยด์และระบบปฎิบัติการไอโอเอสเป็นระบบป
+ฎิบัติการที่ผู้คนใช้งานมากที่สุด โดยทั้งสองระบบปฎิบัติการครอบครองส่วน
+ []
+
+
+Overfull \hbox (7.18591pt too wide) in paragraph at lines 406--419
+\TU/THSarabunNew(0)/m/n/10 แบ่งทางตลาดมากกว่า 98% สำหรับโทรศัพท์มือถือและแท็ปเล
+็ต จากสถิติระบบปฎิบัติการไอโอเอสและระบบปฎิบัติการแอนดรอยด์มีจำนวน
+ []
+
+
+Overfull \hbox (23.59402pt too wide) in paragraph at lines 406--419
+\TU/THSarabunNew(0)/m/n/10 Application สามารถทำงานได้ตามเป้าหมายของโครงการมากกว
+่าเพราะการเป็นรูปแบบแอปพลิเคชันทำให้สามารถใช้หน้าจอสัมผัสผ่านโทรศัพท์
+ []
+
+[8]
+Overfull \hbox (5.8329pt too wide) in paragraph at lines 422--425
+[]\TU/THSarabunNew(0)/m/n/10 React Native คือ เฟรมเวิร์คที่พัฒนาด้วยภาษา JavaSc
+ript สำหรับการพัฒนาแอปพลิเคชันสำหรับระบบปฎิบัติการไอโอเอส
+ []
+
+
+Overfull \hbox (17.39482pt too wide) in paragraph at lines 422--425
+\TU/THSarabunNew(0)/m/n/10 พัฒนาแค่ครั้งเดียวแต่สามารถใช้งานได้ทั้งระบบปฎิบัติก
+ารไอโอเอสและระบบปฎิบัติการแอนดรอยด์ ด้วยการจัดการของ JavaScript ให้สามารถ
+ []
+
+[9]
+File: ./dyslexia.jpg Graphic file (type bmp)
+<./dyslexia.jpg>
+
+! Undefined control sequence.
+l.448   \source
+               {[ที่มา : http://what-when-how.com/introduction-to-video-and-...
+
+? 
+! Misplaced alignment tab character &.
+l.459  Arvanitopoulos &
+                        Susstrunk’s seam carving แล้วจึงนำภาพแต่ละบรรทัดไปแบ...
+
+? 
+
+Overfull \hbox (8.47737pt too wide) in paragraph at lines 457--461
+[]\TU/THSarabunNew(0)/m/n/10 ในส่วนของการประมวลผลภาพนั้น วรรณกรรมนี้ได้ทำการนำภ
+าพลายมือมาแบ่งเป็นบรรทัด หลังจากนั้นจึงได้นำแต่ละบรรทัด
+ []
+
+
+Overfull \hbox (0.82681pt too wide) in paragraph at lines 468--473
+[]\TU/THSarabunNew(0)/m/n/10 เป็นส่วนที่ให้โมเดลนั้นได้ทำการระบุว่าข้อมูลที่ป้อ
+นเข้ามาเป็นโรค dyslexia หรือไม่ โดยตัวโมเดลนั้นอยู่ในรูปแบบของ โครง
+ []
+
+[10]
+Overfull \hbox (9.6951pt too wide) in paragraph at lines 474--479
+[]\TU/THSarabunNew(0)/m/n/10 วรรณกรรมนี้ เป็นวรรณกรรมที่ดีและมีคล้ายกับว่ามีข้อ
+เสนอแนะว่าไม่ควรใช้อะไรบ้าง รวมถึงช่วยเรื่องการคิดระบบการทำงาน
+ []
+
+[11]
+บทที่ 3.
+File: ./system.jpg Graphic file (type bmp)
+<./system.jpg>
+File: ./usecase.jpg Graphic file (type bmp)
+<./usecase.jpg>
+
+Overfull \hbox (6.71849pt too wide) in paragraph at lines 516--519
+\TU/THSarabunNew(0)/m/n/10 อักษร สระ และสะกดคำ จนเสร็จสมบูรณ์จากนั้น ก็วิเคราะห
+์ออกมาจากคำตอบที่เด็กได้ตอบระหว่างเกมส์ เพื่อให้ได้ผลลัพท์รวมถึง ส่งผลลัพธ์
+ []
+
+[12
+
+]
+Overfull \hbox (2.92427pt too wide) in paragraph at lines 524--525
+[]\TU/THSarabunNew(0)/m/n/10 หลังจากนั้นภาพแบบทดสอบที่ผู้ใช้ได้ทำจะถูกส่งเข้าไป
+ภายในระบบ LDSpot เพื่อทำการปรับปรุงคุณภาพของรูปภาพได้แก่การปรับ
+ []
+
+
+Overfull \hbox (10.74057pt too wide) in paragraph at lines 530--538
+[]\TU/THSarabunNew(0)/m/n/10 ในส่วนของแอปพลิเคชันทำแบบทดสอบนั้นเพื่อที่จะได้มาซ
+ึ่งภาพแบบทดสอบเราจึงออกแบบแอปพลิเคชันส์ในรูปแบบของเกม
+ []
+
+File: ./imageprocess.jpg Graphic file (type bmp)
+<./imageprocess.jpg>
+
+Overfull \hbox (7.82549pt too wide) in paragraph at lines 540--556
+[]\TU/THSarabunNew(0)/m/n/10 ในส่วนนี้นั้นเราจะนำภาพแบบทดสอบที่ได้จากแอปพลิเคชั
+นมาปรับปรุงคุณภาพของภาพเพื่อให้เหมาะสมแก่การนำไปวินิจฉัย
+ []
+
+File: ./imagesegment3.jpg Graphic file (type bmp)
+<./imagesegment3.jpg>
+
+Overfull \hbox (5.77141pt too wide) in paragraph at lines 559--574
+[]\TU/THSarabunNew(0)/m/n/10 ในส่วนนี้เราจะทำการสร้าง contour ขึ้นมาจากภาพที่ได
+้ทำการปรับสีขาวดำแล้ว โดยเราจะนำ contour นั้นไปสร้าง bound-
+ []
+
+
+Overfull \hbox (2.00763pt too wide) in paragraph at lines 559--574
+\TU/THSarabunNew(0)/m/n/10 ing box เพื่อครอบแต่ละตัวอักษรให้แยกออกจากกัน เนื่อง
+จากเราต้องการภาพตัวอักษรที่อยู่เดี่ยวๆ ไปใช้ในการวินิจฉัยโรคบกพร่องทางการ
+ []
+
+[13] [14]
+File: ./imagepredict3.jpg Graphic file (type bmp)
+<./imagepredict3.jpg>
+
+Overfull \hbox (6.66927pt too wide) in paragraph at lines 577--592
+[]\TU/THSarabunNew(0)/m/n/10 เมื่อเราได้ภาพตัวอักษรเดี่ยวๆจากส่วนการแยกภาพแล้ว 
+เราจะนำภาพตัวอักษรเดี่ยวๆนั้นไปโยนเข้าโมเดลที่เราได้ทำการสร้าง
+ []
+
+
+Overfull \hbox (0.3963pt too wide) in paragraph at lines 577--592
+\TU/THSarabunNew(0)/m/n/10 ไว้ เพื่อให้โมเดลวินิจฉัยโรคบกพร่องทางการเรียนรู้ แล
+้วนำผลลัพธ์ส่งกลับไปในฐานข้อมูลเพื่อให้แอปพลิเคชันสามารถเรียกข้อมูลไปแสดงได้
+ []
+
+File: ./conceptual.jpg Graphic file (type bmp)
+<./conceptual.jpg>
+[15]
+Overfull \hbox (2.1616pt too wide) in paragraph at lines 606--607
+[]\TU/THSarabunNew(0)/m/n/10 ผู้ใช้สามารถดูผลลัพธ์ย้อนหลังได้โดยกดดูผลลัพธ์ภายใ
+นแอปพลิเคชันหลังจากนั้น แอปพลิเคชันจะทำการติดต่อกับฐานข้อมูลเพื่อดึง
+ []
+
+File: ./database.jpg Graphic file (type bmp)
+<./database.jpg>
+[16]
+File: ./activitytest.jpg Graphic file (type bmp)
+<./activitytest.jpg>
+ [17]
+File: ./activityresult.jpg Graphic file (type bmp)
+<./activityresult.jpg>
+ [18]
+File: ./activitystat.jpg Graphic file (type bmp)
+<./activitystat.jpg>
+ [19] [20]
 บทที่ 4.
-[5
+[21
 
 ]
 บทที่ 5.
 No file undergrad-sample-thai.bbl.
-[6
+[22
 
 ]
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 21.25432pt on input line 408.
+(Font)              scaled to size 21.25432pt on input line 732.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 21.25432pt on input line 408.
- [7]
-Underfull \hbox (badness 10000) in paragraph at lines 409--410
+(Font)              scaled to size 21.25432pt on input line 732.
+ [23]
+Underfull \hbox (badness 10000) in paragraph at lines 733--734
 
  []
 
 
-LaTeX Warning: Citation `norros95' on page 8 undefined on input line 420.
+LaTeX Warning: Citation `norros95' on page 24 undefined on input line 744.
 
 
-LaTeX Warning: Citation `kim01' on page 8 undefined on input line 427.
+LaTeX Warning: Reference `eq:norros' on page 24 undefined on input line 749.
 
 
-LaTeX Warning: Citation `eun01' on page 8 undefined on input line 466.
+LaTeX Warning: Citation `kim01' on page 24 undefined on input line 751.
 
-[8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 479--480
+
+LaTeX Warning: Reference `eq:loss_mva' on page 24 undefined on input line 774.
+
+
+LaTeX Warning: Citation `eun01' on page 24 undefined on input line 790.
+
+
+LaTeX Warning: Reference `eq:mx' on page 24 undefined on input line 793.
+
+[24] [25]
+Underfull \hbox (badness 10000) in paragraph at lines 803--804
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--492
+Underfull \hbox (badness 10000) in paragraph at lines 815--816
 
  []
 
 
-LaTeX Warning: Citation `eun01' on page 10 undefined on input line 497.
+LaTeX Warning: Citation `eun01' on page 26 undefined on input line 821.
 
-[10] (undergrad-sample-thai.aux)
+
+LaTeX Warning: Reference `eq:mx' on page 26 undefined on input line 824.
+
+[26] (undergrad-sample-thai.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -665,12 +1024,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 8905 strings out of 412197
- 178376 string characters out of 2853958
+ 9086 strings out of 412197
+ 180943 string characters out of 2853958
  525988 words of memory out of 3000000
- 28297 multiletter control sequences out of 15000+200000
+ 28461 multiletter control sequences out of 15000+200000
  537417 words of font info for 79 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 105i,10n,112p,711b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 105i,9n,112p,1788b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on undergrad-sample-thai.pdf (20 pages).
+Output written on undergrad-sample-thai.pdf (35 pages).

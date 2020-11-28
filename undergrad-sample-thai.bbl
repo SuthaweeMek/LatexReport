@@ -1,0 +1,76 @@
+\begin{thebibliography}{10}
+
+\bibitem{LD}
+พญ.วินัดดา ปิยะศิลป,
+\newblock ``ความพิการประเภทที่ 6 Learning
+  Disorders,''
+\newblock [สื่อออนไลน์] วันที่ 8/27/2020
+  http://www.thcc.or.th/download/icf/ICF%20LD.pdf.
+
+\bibitem{Neural}
+ชิตพงษ์ กิตตินราดร,
+\newblock ``Neural Network Programming,''
+\newblock [สื่อออนไลน์] วันที่ 8/27/2020
+  https://guopai.github.io/ml-blog15.html.
+
+\bibitem{CS231}
+CS231n: Convolutional Neural~Networks for Visual~Recognition,
+\newblock ``Convolutional Neural Networks,''
+\newblock [สื่อออนไลน์] วันที่ 8/27/2020
+  https://cs231n.github.io/convolutional-networks/#add.
+
+\bibitem{ReLU}
+J.Brownlee,
+\newblock ``A Gentle Introduction to the Rectified Linear Unit (ReLU),''
+\newblock [สื่อออนไลน์] วันที่ 8/27/2020
+  https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/.
+
+\bibitem{Transfer}
+J.Brownlee,
+\newblock ``Transfer Learning in Keras with Computer Vision Models,''
+\newblock [สื่อออนไลน์] วันที่ 8/27/2020
+  https://machinelearningmastery.com/how-to-use-transfer-learning-when-developing-convolutional-neural-network-models.
+
+\bibitem{Activate}
+K.Surapong,
+\newblock ``Activation Function คืออะไร ใน Artificial Neural
+  Network, Sigmoid Function คืออะไร – Activation Function
+  ep.1,''
+\newblock [สื่อออนไลน์] วันที่ 8/27/2020
+  https://www.bualabs.com/archives/1261/what-is-activation-function-what-is-sigmoid-function-activation-function-ep-1/.
+
+\bibitem{ReluFunc}
+K.Surapong,
+\newblock ``ReLU Function คืออะไร
+  ทำไมถึงนิยมใช้ใน Deep Neural Network
+  ต่างกับ Sigmoid อย่างไร – Activation Function
+  ep.3,''
+\newblock [สื่อออนไลน์] วันที่ 8/27/2020
+  https://www.bualabs.com/archives/1355/what-is-relu-function-why-popular-deep-learning-training-deep-neural-network-activation-function-ep-3/.
+
+\bibitem{OpenCV}
+N.Chuntra,
+\newblock ``OpenCV คืออะไร,''
+\newblock [สื่อออนไลน์] วันที่ 8/27/2020
+  https://medium.com/@nut.ch40/opencv-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-8771e2a4c414.
+
+\bibitem{Imagepre}
+P.Canuma,
+\newblock ``Image Pre-processing,''
+\newblock [สื่อออนไลน์] วันที่ 8/27/2020
+  https://towardsdatascience.com/image-pre-processing-c1aec0be3edf.
+
+\bibitem{Imagesegment}
+P.Sharma,
+\newblock ``Computer Vision Tutorial: A Step-by-Step Introduction to Image
+  Segmentation Techniques (Part 1),''
+\newblock [สื่อออนไลน์] วันที่ 8/27/2020
+  https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/.
+
+\bibitem{Dyslexia}
+Indiana University,
+\newblock ``Detecting Dyslexia Using Neural Networks,''
+\newblock [สื่อออนไลน์] วันที่ 8/27/2020
+  http://vision.soic.indiana.edu/detecting-dyslexia-using-neural-networks/.
+
+\end{thebibliography}

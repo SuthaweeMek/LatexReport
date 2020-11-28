@@ -1,0 +1,84 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: undergrad-sample-thai.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: kmutt.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Database file #1: string.bib
+Database file #2: cpe.bib
+Warning--empty year in LD
+Warning--empty journal in LD
+Warning--empty year in LD
+Warning--empty year in Neural
+Warning--empty journal in Neural
+Warning--empty year in Neural
+Warning--empty year in CS231
+Warning--empty journal in CS231
+Warning--empty year in CS231
+Warning--empty year in ReLU
+Warning--empty journal in ReLU
+Warning--empty year in ReLU
+Warning--empty year in Transfer
+Warning--empty journal in Transfer
+Warning--empty year in Transfer
+Warning--empty year in Activate
+Warning--empty journal in Activate
+Warning--empty year in Activate
+Warning--empty year in ReluFunc
+Warning--empty journal in ReluFunc
+Warning--empty year in ReluFunc
+Warning--empty year in OpenCV
+Warning--empty journal in OpenCV
+Warning--empty year in OpenCV
+Warning--empty year in Imagepre
+Warning--empty journal in Imagepre
+Warning--empty year in Imagepre
+Warning--empty year in Imagesegment
+Warning--empty journal in Imagesegment
+Warning--empty year in Imagesegment
+Warning--empty year in Dyslexia
+Warning--empty journal in Dyslexia
+Warning--empty year in Dyslexia
+You've used 11 entries,
+            2177 wiz_defined-function locations,
+            823 strings with 10257 characters,
+and the built_in function-call counts, 2422 in all, are:
+= -- 209
+> -- 77
+< -- 0
++ -- 34
+- -- 22
+* -- 189
+:= -- 429
+add.period$ -- 11
+call.type$ -- 11
+change.case$ -- 33
+chr.to.int$ -- 0
+cite$ -- 44
+duplicate$ -- 110
+empty$ -- 210
+format.name$ -- 22
+if$ -- 463
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 11
+newline$ -- 58
+num.names$ -- 22
+pop$ -- 77
+preamble$ -- 1
+purify$ -- 33
+quote$ -- 0
+skip$ -- 76
+stack$ -- 0
+substring$ -- 56
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 44
+warning$ -- 33
+while$ -- 22
+width$ -- 13
+write$ -- 101
+(There were 33 warnings)

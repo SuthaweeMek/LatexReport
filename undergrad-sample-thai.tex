@@ -7,7 +7,6 @@
 \defaultfontfeatures{Mapping=tex-text,Scale=1.23,LetterSpace=0.0}
 \setmainfont[Scale=1.23,LetterSpace=0,WordSpace=1.0,FakeStretch=1.0]{TH Sarabun New}
 %\setmathfont(Digits)[Scale=1.0,LetterSpace=0,FakeStretch=1.0]{Times New Roman}
-\usepackage{float}
 \setlength{\parindent}{4em} 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Customize below to suit your needs 
@@ -172,26 +171,26 @@ In a multihop ad hoc network, the interference among nodes is
 %%%%%%%%%%%%%%%%%%%%% List of symbols page %%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % You have to add this manually..
-\listofsymbols
-\begin{flushleft}
-\begin{tabular}{@{}p{0.07\textwidth}p{0.7\textwidth}p{0.1\textwidth}}
-\textbf{SYMBOL}  & & \textbf{UNIT} \\[0.2cm]
-$\alpha$ & Test variable\hfill & m$^2$ \\
-$\lambda$ & Interarival rate\hfill &  jobs/second\\
-$\mu$ & Service rate\hfill & jobs/second\\
-\end{tabular}
-\end{flushleft}
+%\listofsymbols
+%\begin{flushleft}
+%\begin{tabular}{@{}p{0.07\textwidth}p{0.7\textwidth}p{0.1\textwidth}}
+%\textbf{SYMBOL}  & & \textbf{UNIT} \\[0.2cm]
+%$\alpha$ & Test variable\hfill & m$^2$ \\
+%$\lambda$ & Interarival rate\hfill &  jobs/second\\
+%$\mu$ & Service rate\hfill & jobs/second\\
+%\end{tabular}
+%\end{flushleft}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%% List of vocabs & terms %%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % You also have to add this manually..
-\listofvocab
-\begin{flushleft}
-\begin{tabular}{@{}p{1in}@{=\extracolsep{0.5in}}l}
-ABC & Adaptive Bandwidth Control \\
-MANET & Mobile Ad Hoc Network 
-\end{tabular}
-\end{flushleft}
+%\listofvocab
+%\begin{flushleft}
+%\begin{tabular}{@{}p{1in}@{=\extracolsep{0.5in}}l}
+%ABC & Adaptive Bandwidth Control \\
+%MANET & Mobile Ad Hoc Network 
+%\end{tabular}
+%\end{flushleft}
 
 %\setlength{\parskip}{1.2mm}
 
@@ -331,8 +330,8 @@ Activate function มีหน้าที่ในการปรับผล�
   \setlength{\fboxrule}{0.2mm} % can define this in the preamble
   \setlength{\fboxsep}{1cm}
   \fbox{\includegraphics[width=10cm]{./sigmoid.jpg}}
-  \caption{ภาพอธิบายตัวอย่างของ Transfer Learning}\label{fig:sigmoid}
-  \source{[ที่มา : https://www.topbots.com/transfer-learning-in-nlp/]}
+  \caption{ภาพตัวอย่างกราฟของ sigmoid function}\label{fig:sigmoid}
+  \source{[ที่มา : https://www.researchgate.net/figure/An-illustration-of-the-signal-processing-in-a-sigmoid-function_fig2_239269767]}
 \end{figure}
 
 \subsection{Rectified Linear Unit (ReLU)}
@@ -346,8 +345,8 @@ anishing gradient problem ได้ เพราะกราฟของ ReLU �
   \setlength{\fboxrule}{0.2mm} % can define this in the preamble
   \setlength{\fboxsep}{1cm}
   \fbox{\includegraphics[width=5cm,height=3cm]{./relu.jpg}}
-  \caption{ภาพอธิบายตัวอย่างของ Transfer Learning}\label{fig:relu}
-  \source{[ที่มา : https://www.topbots.com/transfer-learning-in-nlp/]}
+  \caption{ภาพตัวอย่างกราฟของ ReLU function}\label{fig:relu}
+  \source{[ที่มา : https://www.researchgate.net/figure/ReLU-activation-function_fig7_333411007]}
 \end{figure}
 
 
@@ -410,8 +409,8 @@ Optical character recognition หรือ OCR คือเทคโนโลย
   \setlength{\fboxrule}{0.2mm} % can define this in the preamble
   \setlength{\fboxsep}{1cm}
   \fbox{\includegraphics[width=10cm]{./market.jpg}}
-  \caption{ภาพตัวอย่างการทำงานของ Blob coloring}\label{fig:blob}
-  \source{[ที่มา : http://what-when-how.com/introduction-to-video-and-image-processing/blob-analysis-introduction-to-video-and-image-processing-part-1/]}
+  \caption{ส่วนแบ่งการตลาดระบบปฏิบัติการมือถือและแท็บเล็ตทั่วโลก}\label{fig:market}
+  \source{[ที่มา : https://gs.statcounter.com/os-market-share/mobile-tablet/worldwide/#monthly-201907-202007]}
 \end{figure}
 จากสถิติระบบปฎิบัติการไอโอเอสและระบบปฎิบัติการแอนดรอยด์มีจำนวนผู้ใช้ปริมาณมาก ดังนั้นโครงการจึงพัฒนาแอปพลิเคชันให้สามารถใช้งานได้ทั้งสองระบบปฎิบัติการ 
 ซึ่งรูปแบบในการพัฒนาแอปพลิเคชันให้สามารถใช้งานในหลายแพลตฟอร์มได้มีด้วยกันอยู่สองรูปแบบคือ Hybrid Application และ Web Application อย่างไรก็ตาม Hybrid Application 
@@ -444,8 +443,6 @@ Django Rest Framework เป็น framework ที่พัฒนาขึ้�
   \setlength{\fboxrule}{0.2mm} % can define this in the preamble
   \setlength{\fboxsep}{1cm}
   \fbox{\includegraphics[width=6cm,height=5cm]{./dyslexia.jpg}}
-  \caption{ภาพตัวอย่างการทำงานของ Blob coloring}\label{fig:blob}
-  \source{[ที่มา : http://what-when-how.com/introduction-to-video-and-image-processing/blob-analysis-introduction-to-video-and-image-processing-part-1/]}
 \end{figure}
 
 \subsubsection{การใช้ภาพลายมือในการวินิจฉัยโรค Dyslexia}
@@ -496,7 +493,7 @@ Explain the design (how you plan to implement your work) of your project. Adjust
   \setlength{\fboxrule}{0.2mm} % can define this in the preamble
   \setlength{\fboxsep}{1cm}
   \fbox{\includegraphics[width=6cm,height=5cm]{./system.jpg}}
-  \caption{ภาพตัวอย่างการทำงานของ Blob coloring}\label{fig:system}
+  \caption{ภาพ System Architecture ของ LDSpot}\label{fig:system}
 \end{figure}
 \subsection{System requirements}
 \begin{itemize}
@@ -511,7 +508,7 @@ Explain the design (how you plan to implement your work) of your project. Adjust
   \setlength{\fboxrule}{0.2mm} % can define this in the preamble
   \setlength{\fboxsep}{1cm}
   \fbox{\includegraphics[width=6cm,height=5cm]{./usecase.jpg}}
-  \caption{ภาพตัวอย่างการทำงานของ Blob coloring}\label{fig:usecase}
+  \caption{ภาพ Use Case Diagram}\label{fig:usecase}
 \end{figure}
 เมื่อผู้ใช้เข้าสู่แอปพลิเคชันของเราสิ่งแรกที่พบคือ หน้าหลัก (Main menu) เพื่อที่สามารถเชื่อมหรือใช้ฟังค์ชั่นอื่น ๆ โดยมี 4 ฟังค์ชั่น อย่างแรกเลย 
 การวินิฉัย(Start Diagnosis) เมื่อผู้ใช้เลือกใช้ฟังค์ชั่นนี้ ทำให้เริ่มการวินิจฉัยโดยมีลักษณะคล้ายเกมส์ ให้เขียนตัวอักษร สระ และสะกดคำ จนเสร็จสมบูรณ์จากนั้น ก็วิเคราะห์ออกมาจากคำตอบที่เด็กได้ตอบระหว่างเกมส์ 
@@ -595,7 +592,7 @@ Gaussian blur และจึงปรับภาพให้อยู่ใน
   \setlength{\fboxrule}{0.2mm} % can define this in the preamble
   \setlength{\fboxsep}{1cm}
   \fbox{\includegraphics[width=10cm]{./conceptual.jpg}}
-  \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}\label{fig:system}
+  \caption{ภาพการสื่อสารระหว่างทางฝั่ง Frontend และ Backend}\label{fig:conceptual}
  \end{figure}
  การทำงานของตัวระบบ LDSpot นั้นจะมีอยู่สองส่วนด้วยกันได้แก่ front-end ที่ทำหน้าที่เป็นหน้าแอปพลิเคชันไว้สื่อสารกับผู้ใช้งาน และส่วนของ back-end ที่รับข้อมูลมาเพื่อประมวลผลแล้วหลังจากนั้นจึงนำข้อมูลไปเก็บใส่ฐานข้อมูลไว้ใช้งานต่อไป 
  \begin{itemize}
@@ -613,7 +610,7 @@ Gaussian blur และจึงปรับภาพให้อยู่ใน
     \setlength{\fboxrule}{0.2mm} % can define this in the preamble
     \setlength{\fboxsep}{1cm}
     \fbox{\includegraphics[width=10cm]{./database.jpg}}
-    \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}\label{fig:system}
+    \caption{ภาพ Database ER diagram}\label{fig:database}
    \end{figure}
    
 \newpage
@@ -624,7 +621,7 @@ Gaussian blur และจึงปรับภาพให้อยู่ใน
       \setlength{\fboxrule}{0.2mm} % can define this in the preamble
       \setlength{\fboxsep}{1cm}
       \fbox{\includegraphics[width=10cm]{./activitytest.jpg}}
-      \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}\label{fig:system}
+      \caption{ภาพ Activity diagram การทำแบบทดสอบ}\label{fig:activity1}
      \end{figure}
     \newpage
     \item ดูผลลัพธ์การทดสอบ
@@ -632,7 +629,7 @@ Gaussian blur และจึงปรับภาพให้อยู่ใน
       \setlength{\fboxrule}{0.2mm} % can define this in the preamble
       \setlength{\fboxsep}{1cm}
       \fbox{\includegraphics[width=10cm]{./activityresult.jpg}}
-      \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}\label{fig:system}
+      \caption{ภาพ Activity diagram การดูผลลัพธ์การทดสอบ}\label{fig:activity2}
      \end{figure}
      \newpage
     \item ดูสถิติรวมของแอปพลิเคชัน
@@ -640,7 +637,7 @@ Gaussian blur และจึงปรับภาพให้อยู่ใน
       \setlength{\fboxrule}{0.2mm} % can define this in the preamble
       \setlength{\fboxsep}{1cm}
       \fbox{\includegraphics[width=10cm]{./activitystat.jpg}}
-      \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}\label{fig:system}
+      \caption{ภาพ Activity diagram การดูข้อมูลสถิติในแอปพลิเคชัน}\label{fig:activity3}
      \end{figure}
   \end{itemize}
  
@@ -655,67 +652,125 @@ Gaussian blur และจึงปรับภาพให้อยู่ใน
 
 
 
+\newpage
+\section{User Interface Design}
+\begin{itemize}
+  \item Login
+  \begin{figure}[!ht]\centering
+    \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+    \setlength{\fboxsep}{1cm}
+    \fbox{\includegraphics[width=10cm]{./login.jpg}}
+    \caption{ภาพการออกแบบหน้า Login}\label{fig:system}
+  \end{figure}
+  \item Home
+  \begin{figure}[!ht]\centering
+    \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+    \setlength{\fboxsep}{1cm}
+    \fbox{\includegraphics[width=10cm]{./home.jpg}}
+    \caption{ภาพการออกแบบหน้า Home}\label{fig:system}
+  \end{figure}
+  \newpage
+  \item TestStage1
+  \begin{figure}[!ht]\centering
+    \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+    \setlength{\fboxsep}{1cm}
+    \fbox{\includegraphics[width=10cm]{./stage1.jpg}}
+    \caption{ภาพการออกแบบหน้าการทำแบบทดสอบด่านแรก}\label{fig:system}
+  \end{figure}
+  \item TestStage2
+  \begin{figure}[!ht]\centering
+    \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+    \setlength{\fboxsep}{1cm}
+    \fbox{\includegraphics[width=10cm]{./stage2.jpg}}
+    \caption{ภาพการออกแบบหน้าการทำแบบทดสอบด่านสอง}\label{fig:system}
+  \end{figure}
+  \newpage
+  \item TestStage3
+  \begin{figure}[!ht]\centering
+    \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+    \setlength{\fboxsep}{1cm}
+    \fbox{\includegraphics[width=10cm]{./stage3.jpg}}
+    \caption{ภาพการออกแบบหน้าการทำแบบทดสอบด่านสาม}\label{fig:system}
+  \end{figure}
+  \item Skip
+  \begin{figure}[!ht]\centering
+    \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+    \setlength{\fboxsep}{1cm}
+    \fbox{\includegraphics[width=10cm]{./stage1inputSkip.jpg}}
+    \caption{ภาพการออกแบบหน้าการกดข้ามการเขียนตัวอักษร สระ และคำสะกด}\label{fig:system}
+  \end{figure}
+  \newpage
+  \item Writing Scene
+  \begin{figure}[!ht]\centering
+    \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+    \setlength{\fboxsep}{1cm}
+    \fbox{\includegraphics[width=10cm]{./stage1input.jpg}}
+    \caption{ภาพการออกแบบหน้าเขียนตัวอักษร สระ และคำสะกด}\label{fig:system}
+  \end{figure}
+  \begin{figure}[!ht]\centering
+    \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+    \setlength{\fboxsep}{1cm}
+    \fbox{\includegraphics[width=10cm]{./stage1input2.jpg}}
+    \caption{ภาพการออกแบบหน้าเขียนตัวอักษร สระ และคำสะกด}\label{fig:system}
+  \end{figure}
+  \newpage
+  \item EndScene
+  \begin{figure}[!ht]\centering
+    \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+    \setlength{\fboxsep}{1cm}
+    \fbox{\includegraphics[width=10cm]{./endGame.jpg}}
+    \caption{ภาพการออกแบบหน้าจบการทดสอบ}\label{fig:system}
+  \end{figure}s
+  \item Result
+    \begin{figure}[!ht]\centering
+      \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+      \setlength{\fboxsep}{1cm}
+      \fbox{\includegraphics[width=10cm]{./result.jpg}}
+      \caption{ภาพออกแบบหน้าดูผลลัพธ์การทดสอบ}\label{fig:system}
+    \end{figure}
+  \newpage
+  \item Stat
+    \begin{figure}[!ht]\centering
+      \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+      \setlength{\fboxsep}{1cm}
+      \fbox{\includegraphics[width=10cm]{./stat.jpg}}
+      \caption{ภาพการออกแบบหน้าดูสถิติภายในแอปพลิเคชัน}\label{fig:system}
+        
+  \end{figure}
+\end{itemize}
+\newpage
+\section{การเก็บข้อมูลภาพลายมือเด็ก}
+การเก็บรวมรวมข้อมูลของภาพลายมือเด็ก เราได้ทำการรวมรวมรูปภาพการทำแบบทดสอบโดยเขียนพยัญชนะ สระ และคำสะกด 
+จากนักเรียนระดับชั้นประถมศึกษาตั้งแต่ประถมศึกษาปีที่หนึ่งถึงประถมศึกษาปีที่สาม โดยคาดว่าจะมีเด็กเข้าร่วมทำแบบทดสอบประมาณ 1000 
+คนโดยประมาณ ซึ่งภาพลายมือเด็กที่เขียนถูกต้องจะถูกนำมาใช้ในการเรียนรู้ของตัวโมเดลของเรา โดยตัวอย่างแบบทดสอบมีดังนี้
+\begin{figure}[!ht]\centering
+  \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+  \setlength{\fboxsep}{1cm}
+  \fbox{\includegraphics[width=10cm]{./พยัญชนะ.png}}
+  \caption{ภาพแบบทดสอบที่ใช้เก็บลายมือตัวอักษรเด็ก}\label{fig:system}
+    
+\end{figure}
+\begin{figure}[!ht]\centering
+  \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+  \setlength{\fboxsep}{1cm}
+  \fbox{\includegraphics[width=10cm]{./สระ.png}}
+  \caption{ภาพแบบทดสอบที่ใช้เก็บลายมือสระเด็ก}\label{fig:system}
+    
+\end{figure}
+\begin{figure}[!ht]\centering
+  \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+  \setlength{\fboxsep}{1cm}
+  \fbox{\includegraphics[width=10cm]{./คำสะกด.png}}
+  \caption{ภาพแบบทดสอบที่ใช้เก็บลายมือคำสะกดเด็ก}\label{fig:system}
+    
+\end{figure}
 
-\section{สถาปัตยกรรมระบบ}
 
-
-
-\section{Hardware Module 1}
-\subsection{Component 1}
-\subsection{Logical Circuit Diagram}
-
-\section{Hardware Module 2}
-\subsection{Component 1}
-
-\subsection{Component 2}
-
-\section{Path Finding Algorithm}
-
-\section{Database Design}
-
-\section{UML Design}
-
-\section{GUI Design}
-
-\section{การออกแบบการทดลอง}
-\subsection{ตัวชี้วัดและปัจจัยที่ศึกษา}
-\subsection{รูปแบบการเก็บข้อมูล}
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%% Experiments %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{ผลการดำเนินงาน}
-
-You can title this chapter as \textbf{Preliminary Results} ผลการดำเนินงานเบื้องต้น or \textbf{Work Progress} ความก้าวหน้าโครงงาน for the progress reports. Present implementation or experimental results here and discuss them.
-ใส่เฉพาะหัวข้อที่เกี่ยวข้องกับงานที่ทำ 
-
-\section{ประสิทฺธิภาพการทำงานของระบบ} 
-\section{ความพึงพอใจการใช้งาน}
-\section{การวิเคราะห์ข้อมูลและผลการทดลอง}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%% Conclusions %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{บทสรุป}
-
-This chapter is optional for proposal and progress reports but 
-is required for the final report.
-
-\section{สรุปผลโครงงาน}
-สรุปว่าโครงงานบรรลุตามวัตถุประสงค์ที่ตั้งไว้หรือไม่ อย่างไร 
-
-\section{ปัญหาที่พบและการแก้ไข}
-State your problems and how you fixed them.
-
-\section{ข้อจำกัดและข้อเสนอแนะ}
-ข้อจำกัดของโครงงาน What could be done in the future to make your projects better.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%% Bibliography %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 %%%% Comment this in your report to show only references you have
 %%%% cited. Otherwise, all the references below will be shown.
@@ -725,108 +780,6 @@ State your problems and how you fixed them.
 %% You may go to file .bbl to manually edit the bib items.
 \bibliographystyle{kmutt}
 \bibliography{string,cpe}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%% Appendix %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\appendix{ชื่อภาคผนวกที่ 1}
-\noindent{\large\bf ใส่หัวข้อตามความเหมาะสม} \\
-
-This is where you put hardware circuit diagrams, detailed experimental data in tables or source codes, etc.. \\ \bigskip
-
-
-
-This appendix describes two static allocation methods for fGn (or fBm)
-traffic. Here, $\lambda$ and $C$ are respectively the traffic arrival
-rate and the service rate per dimensionless time step. Their unit are
-converted to a physical time unit by multiplying the step size
-$\Delta$. For a fBm self-similar traffic source,
-Norros~\cite{norros95} provides its EB as
-\begin{equation}\label{eq:norros}
-  C = \lambda + (\kappa(H)\sqrt{-2\ln\epsilon})^{1/H}a^{1/(2H)}x^{-(1-H)/H}\lambda^{1/(2H)}
-\end{equation}
-where $\kappa(H) = H^H(1-H)^{(1-H)}$. Simplicity in the calculation is
-the attractive feature of (\ref{eq:norros}).
-
-The MVA technique developed in~\cite{kim01} so far provides the most
-accurate estimation of the loss probability compared to previous
-bandwidth allocation techniques according to simulation results.
-Consider a discrete-time queueing system with constant service rate
-$C$ and input process $\lambda_n$ with $\mathbb{E}\{\lambda_n\} =
-\lambda$ and $\mathrm{Var}\{\lambda_n\} = \sigma^2$.  Define $X_n \equiv
-\sum_{k=1}^n \lambda_k - Cn$.  The loss probability due to the MVA
-approach is given by
-\begin{equation}\label{eq:loss_mva}
-  \varepsilon \approx \alpha e^{-m_x/2}
-\end{equation}
-where
-\begin{equation}\label{eq:mx}
-m_x = \min_{n \geq 0} \frac{((C-\lambda)n + B)^2}{\mathrm{Var}\{X_n\}} =
-\frac{((C-\lambda)n^\ast + B)^2}{\mathrm{Var}\{X_{n^{\ast}}\}}
-\end{equation} 
-and 
-\begin{equation}\label{eq:alpha}
-  \alpha =
-  \frac{1}{\lambda\sqrt{2\pi\sigma^2}}\exp\left(\frac{(C-\lambda)^2}{2\sigma^2}\right)
-  \int_C^\infty (r-C)\exp\left(\frac{(r-\lambda)^2}{2\sigma^2}\right)\, dr
-\end{equation}
-For a given $\varepsilon$, we numerically solve for $C$ that satisfies
-(\ref{eq:loss_mva}). Any search algorithm can be used to do the task.
-Here, the bisection method is used.  
-
-Next, we show how $\mathrm{Var}\{X_n\}$ can be determined.  Let
-$C_{\lambda}(l)$ be the autocovariance function of $\lambda_n$.  The
-MVA technique basically approximates the input process $\lambda_n$
-with a Gaussian process, which allows $\mathrm{Var}\{X_n\}$ to be
-represented by the autocovariance function.  In particular, the
-variance of $X_n$ can be expressed in terms of $C_{\lambda}(l)$ as
-\begin{equation}
-  \mathrm{Var}\{X_n\} = nC_{\lambda}(0) + 2\sum_{l=1}^{n-1} (n-l)C_{\lambda}(l)
-\end{equation} 
-Therefore, $C_{\lambda}(l)$ must be known in the MVA technique, either
-by assuming specific traffic models or by off-line analysis in case of
-traces.  In most practical situations, $C_{\lambda}(l)$ will not be
-known in advance, and an on-line measurement algorithm developed
-in~\cite{eun01} is required to jointly determine both $n^\ast$ and
-$m_x$. For fGn traffic, $\mathrm{Var}\{X_n\}$ is equal to $\sigma^2
-n^{2H}$, where $\sigma^2 = \mathrm{Var}\{\lambda_n\}$, and we can find
-the $n^\ast$ that minimizes (\ref{eq:mx}) directly. Although $\lambda$
-can be easily measured, it is not the case for $\sigma^2$ and $H$.
-Consequently, the MVA technique suffers from the need of prior
-knowledge traffic parameters.
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%% The 2nd appendix %%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\appendix{ชื่อภาคผนวกที่ 2}
-\noindent{\large\bf ใส่หัวข้อตามความเหมาะสม} \\
-
-Next, we show how $\mathrm{Var}\{X_n\}$ can be determined.  Let
-$C_{\lambda}(l)$ be the autocovariance function of $\lambda_n$.  The
-MVA technique basically approximates the input process $\lambda_n$
-with a Gaussian process, which allows $\mathrm{Var}\{X_n\}$ to be
-represented by the autocovariance function.  In particular, the
-variance of $X_n$ can be expressed in terms of $C_{\lambda}(l)$ as
-\begin{equation}
-  \mathrm{Var}\{X_n\} = nC_{\lambda}(0) + 2\sum_{l=1}^{n-1} (n-l)C_{\lambda}(l)
-\end{equation} 
-
-\noindent{\large\bf Add more topic as you need} \\
-
-Therefore, $C_{\lambda}(l)$ must be known in the MVA technique, either
-by assuming specific traffic models or by off-line analysis in case of
-traces.  In most practical situations, $C_{\lambda}(l)$ will not be
-known in advance, and an on-line measurement algorithm developed
-in~\cite{eun01} is required to jointly determine both $n^\ast$ and
-$m_x$. For fGn traffic, $\mathrm{Var}\{X_n\}$ is equal to $\sigma^2
-n^{2H}$, where $\sigma^2 = \mathrm{Var}\{\lambda_n\}$, and we can find
-the $n^\ast$ that minimizes (\ref{eq:mx}) directly. Although $\lambda$
-can be easily measured, it is not the case for $\sigma^2$ and $H$.
-Consequently, the MVA technique suffers from the need of prior
-knowledge traffic parameters. 
-
-
 
 
 

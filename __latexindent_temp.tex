@@ -497,10 +497,27 @@ Explain the design (how you plan to implement your work) of your project. Adjust
   \setlength{\fboxsep}{1cm}
   \fbox{\includegraphics[width=6cm,height=5cm]{./system.jpg}}
   \caption{ภาพตัวอย่างการทำงานของ Blob coloring}\label{fig:system}
-  \source{[ที่มา : http://what-when-how.com/introduction-to-video-and-image-processing/blob-analysis-introduction-to-video-and-image-processing-part-1/]}
 \end{figure}
+\subsection{System requirements}
+\begin{itemize}
+  \item รองรับระบบปฏิบัติการแอนดรอยด์ตั้งแต่ 4.1 ขึ้นไป
+  \item รองรับระบบปฏิบัติการไอโอเอสตั้งแต่ 10.0 ขึ้นไป
+  \item รองรับระบบสัมผัสหน้าจอ
+  \item สามารถดูผลการวินิจฉัยย้อนหลังได้
+  \item อนุญาติให้เก็บผลการวินิจฉัยบนระบบได้
+\end{itemize}
+\subsection{(Use cases)}
+\begin{figure}[!ht]\centering
+  \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+  \setlength{\fboxsep}{1cm}
+  \fbox{\includegraphics[width=6cm,height=5cm]{./usecase.jpg}}
+  \caption{ภาพตัวอย่างการทำงานของ Blob coloring}\label{fig:usecase}
+\end{figure}
+เมื่อผู้ใช้เข้าสู่แอปพลิเคชันของเราสิ่งแรกที่พบคือ หน้าหลัก (Main menu) เพื่อที่สามารถเชื่อมหรือใช้ฟังค์ชั่นอื่น ๆ โดยมี 4 ฟังค์ชั่น อย่างแรกเลย 
+การวินิฉัย(Start Diagnosis) เมื่อผู้ใช้เลือกใช้ฟังค์ชั่นนี้ ทำให้เริ่มการวินิจฉัยโดยมีลักษณะคล้ายเกมส์ ให้เขียนตัวอักษร สระ และสะกดคำ จนเสร็จสมบูรณ์จากนั้น ก็วิเคราะห์ออกมาจากคำตอบที่เด็กได้ตอบระหว่างเกมส์ 
+เพื่อให้ได้ผลลัพท์รวมถึง ส่งผลลัพธ์นั้นไปบอร์ดสถิติ (Dashboard) เพื่อที่แสดงข้อมูลให้ผู้ใช้คนอื่น ๆ เห็น นอกจากนี้ยังมีหน้าตั้งค่า(Setting) หน้าเกี่ยวกับเรา (About us) 
 
-\subsection{โครงสร้างซอฟต์แวร์}
+\section{โครงสร้างซอฟต์แวร์}
 ในส่วนของการใช้งานระบบ LDSpot นั้นจะแบ่งเป็นสี่ส่วนหลักๆได้แก่ แอปพลิเคชันทำแบบทดสอบ การประมวลผลภาพ การแยกภาพ การวินิจฉัย โดยมีขั้นตอนของตัวระบบดังนี้
 \begin{enumerate}
   \item ผู้ใช้จะต้องทำแบบทดสอบภายในแอปพลิเคชันโดยจะอยู่ในรูปแบบของเกมเขียน พยัญชนะ สระ และ สะกดคำ
@@ -509,7 +526,7 @@ Explain the design (how you plan to implement your work) of your project. Adjust
   \item นำภาพแต่ละตัวอักษรเข้าไปวินิจฉัย เพื่อนำผลลัพธ์จากโมเดลมาแสดงผลบนแอปพลิเคชัน
 \end{enumerate}
 
-\subsubsection{แอปพลิเคชันทำแบบทดสอบ (Application)}
+\subsection{แอปพลิเคชันทำแบบทดสอบ (Application)}
 ในส่วนของแอปพลิเคชันทำแบบทดสอบนั้นเพื่อที่จะได้มาซึ่งภาพแบบทดสอบเราจึงออกแบบแอปพลิเคชันส์ในรูปแบบของเกมให้ผู้ใช้ทำ ซึ่งในส่วนนี้ผู้ใช้จะต้องทำแบบทดสอบการเขียนพยัญชนะ สระ และสะกดคำ โดยจะมีกรอบขึ้นมาให้ผู้ใช้เขียนตามเสียงพูด 
 \begin{table}[!h]\centering
   \caption{แสดงข้อมูลขาเข้าและขาออกของ แอปพลิเคชัน}\label{tbl:application1}
@@ -519,7 +536,7 @@ Explain the design (how you plan to implement your work) of your project. Adjust
   \end{tabular}
   \end{table}
 
-\subsubsection{การประมวลผลภาพ (Image processing)}
+\subsection{การประมวลผลภาพ (Image processing)}
 ในส่วนนี้นั้นเราจะนำภาพแบบทดสอบที่ได้จากแอปพลิเคชันมาปรับปรุงคุณภาพของภาพเพื่อให้เหมาะสมแก่การนำไปวินิจฉัย 
 โดยจะมีการปรับขนาดของภาพให้ตรงกับขนาดของภาพที่ระบบ LDSpot นั้นใช้ในการเรียนรู้ หลังจากนั้นจึงนำภาพไปทำการลดสัญญาณรบกวนด้วยวิธีการใช้ 
 Gaussian blur และจึงปรับภาพให้อยู่ในสีขาวดำ เพื่อแยกตัวอักษรออกจากภาพพื้นหลัง
@@ -527,17 +544,106 @@ Gaussian blur และจึงปรับภาพให้อยู่ใน
   \setlength{\fboxrule}{0.2mm} % can define this in the preamble
   \setlength{\fboxsep}{1cm}
   \fbox{\includegraphics[width=10cm]{./imageprocess.jpg}}
-  \caption{ภาพตัวอย่างการทำงานของ Blob coloring}\label{fig:system}
-  \source{[ที่มา : http://what-when-how.com/introduction-to-video-and-image-processing/blob-analysis-introduction-to-video-and-image-processing-part-1/]}
+  \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการประมวลผลภาพ}\label{fig:system}
+\end{figure}
 \begin{table}[!h]\centering
-    \caption{แสดงข้อมูลขาเข้าและขาออกของ แอปพลิเคชัน}\label{tbl:application1}
+  \caption{แสดงข้อมูลขาเข้าและขาออกของส่วนการประมวลผลภาพ}\label{tbl:application1}
+  \begin{tabular}{c|c|l|rr} \hline
+  Input & ภาพแบบทดสอบการเขียนพยัญชนะ สระ และ คำสะกด \\ \hline
+  Output & ภาพแบบทดสอบการเขียนพยัญชนะ สระ และ คำสะกดที่ปรับปรุงคุณภาพสำหรับการทำโมเดลแล้ว \\ \hline
+  \end{tabular}
+  \end{table}
+  
+
+  \subsection{การแยกภาพ (Image segmentation)}
+  ในส่วนนี้เราจะทำการสร้าง contour ขึ้นมาจากภาพที่ได้ทำการปรับสีขาวดำแล้ว โดยเราจะนำ contour นั้นไปสร้าง bounding box
+   เพื่อครอบแต่ละตัวอักษรให้แยกออกจากกัน เนื่องจากเราต้องการภาพตัวอักษรที่อยู่เดี่ยวๆ ไปใช้ในการวินิจฉัยโรคบกพร่องทางการเรียนรู้ 
+  \begin{figure}[!ht]\centering
+    \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+    \setlength{\fboxsep}{1cm}
+    \fbox{\includegraphics[width=10cm]{./imagesegment3.jpg}}
+    \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการแยกภาพ}\label{fig:system}
+   \end{figure}
+  \begin{table}[!h]\centering
+    \caption{แสดงข้อมูลขาเข้าและขาออกของส่วนการแยกภาพ}\label{tbl:application1}
     \begin{tabular}{c|c|l|rr} \hline
-    Input & ผู้ใช้ทำแบบทดสอบภายในแอปพลิเคชัน \\ \hline
-    Output & ภาพแบบทดสอบการเขียนพยัญชนะ สระ และ คำสะกด \\ \hline
+    Input & ภาพแบบทดสอบการเขียนพยัญชนะ สระ และ คำสะกดที่ปรับปรุงคุณภาพสำหรับการทำโมเดลแล้ว  \\ \hline
+    Output & ภาพที่ถูกตัดให้เหลือเพียงภาพละ 1 พยัญชนะ สระ หรือ คำสะกด เพื่อนำไปเข้าระบบ LDSpot เพื่อวินิจฉัย\\ \hline
     \end{tabular}
     \end{table}
-  
-\end{figure}
+
+  \newpage
+  \subsection{การวินิจฉัย (Learning disorder prediction)}
+  เมื่อเราได้ภาพตัวอักษรเดี่ยวๆจากส่วนการแยกภาพแล้ว เราจะนำภาพตัวอักษรเดี่ยวๆนั้นไปโยนเข้าโมเดลที่เราได้ทำการสร้างไว้ 
+  เพื่อให้โมเดลวินิจฉัยโรคบกพร่องทางการเรียนรู้ แล้วนำผลลัพธ์ส่งกลับไปในฐานข้อมูลเพื่อให้แอปพลิเคชันสามารถเรียกข้อมูลไปแสดงได้ต่อไป 
+  \begin{figure}[!ht]\centering
+    \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+    \setlength{\fboxsep}{1cm}
+    \fbox{\includegraphics[width=10cm]{./imagepredict3.jpg}}
+    \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}\label{fig:system}
+   \end{figure}
+  \begin{table}[!h]\centering
+    \caption{แสดงข้อมูลขาเข้าและขาออกของส่วนการวินิจฉัย}\label{tbl:application1}
+    \begin{tabular}{c|c|l|rr} \hline
+    Input & ภาพที่ถูกตัดให้เหลือเพียง ภาพละ 1 พยัญชนะ สระ หรือ คำสะกด เพื่อนำไปเข้าระบบ LDSpot เพื่อวินิจฉัย  \\ \hline
+    Output & ผลลัพธ์จากการวินิจฉัยในรูปแบบของคะแนนและ โอกาสการเป็นโรคบกพร่องทางการเรียนรู้ \\ \hline
+    \end{tabular}
+    \end{table}
+
+\section{Conceptual  Design}
+\begin{figure}[!ht]\centering
+  \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+  \setlength{\fboxsep}{1cm}
+  \fbox{\includegraphics[width=10cm]{./conceptual.jpg}}
+  \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}\label{fig:system}
+ \end{figure}
+ การทำงานของตัวระบบ LDSpot นั้นจะมีอยู่สองส่วนด้วยกันได้แก่ front-end ที่ทำหน้าที่เป็นหน้าแอปพลิเคชันไว้สื่อสารกับผู้ใช้งาน และส่วนของ back-end ที่รับข้อมูลมาเพื่อประมวลผลแล้วหลังจากนั้นจึงนำข้อมูลไปเก็บใส่ฐานข้อมูลไว้ใช้งานต่อไป 
+ \begin{itemize}
+   \item ในส่วนของ front-end นั้นจะประกอบไปด้วย แอปพลิเคชันส์ในรูปแบบของเกม โดยที่ผู้ใช้จะสามารถเข้าสู่ระบบผ่านทางรหัสที่ได้ทำการสมัครสมาชิกไว้
+    โดยตัวรหัสจะถูกส่งไปเพื่อตรวจสอบความถูกต้องว่ามีรหัสนี้อยู่จริงในระบบหรือไม่กับฐานข้อมูลที่อยู่ภายในส่วนของ back-end หากตรวจสอบแล้วถูกต้องจึงจะสามารถเข้าสู่ระบบได้ 
+   \item ผู้ใช้สามารถกดเข้ารับแบบทดสอบได้ โดยเมื่อเข้ารับแล้ว จะต้องทำตามข้ันตอนต่อไป ซึ่งผู้ใช้จะได้เขียนตัวอักษร สระ และคำสะกด ตามเสียงไปเรื่อยๆ เมื่อเสร็จสิ้นแล้วภาพแบบทดสอบจะถูกส่งไปทางฝั่ง back-end 
+   ในส่วนของระบบ LDSpot เพื่อทำการวินิจฉัยหลังจากนั้นผลลัพธ์จะถูกส่งเก็บเข้าไปในฐานข้อมูล เพื่อให้ทางฝั่ง front-end สามารถดึงข้อมูลไปแสดงผลบนแอปพลิเคชันได้
+   \item ผู้ใช้สามารถดูผลลัพธ์ย้อนหลังได้โดยกดดูผลลัพธ์ภายในแอปพลิเคชันหลังจากนั้น แอปพลิเคชันจะทำการติดต่อกับฐานข้อมูลเพื่อดึงผลลัพธ์ที่เคยได้มีการวินิจฉัยไว้ของผู้ใช้งานคนนั้นมาแสดงผล
+   \item ผู้ใช้สามารถดูบอร์ดสถิติได้ โดยบอร์ดสถิตินั้นจะดึงข้อมูลสรุปจากฐานข้อมูลมาว่า มีผู้ใช้งานแอปพลิเคชันนี้แล้วกี่คน มีการทำนายว่าเป็นโรคบกพร่องทางการเรียนรู้กี่คน ไม่เป็นกี่คนเป็นต้น เพื่อใช้เป็นข้อมูลในเชิงสถิติต่อไป
+ \end{itemize}
+
+ 
+\section{Database Design}
+\begin{figure}[!ht]\centering
+    \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+    \setlength{\fboxsep}{1cm}
+    \fbox{\includegraphics[width=10cm]{./database.jpg}}
+    \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}\label{fig:system}
+   \end{figure}
+   
+\newpage
+\section{Activity Diagram Design}
+   \begin{itemize}
+    \item ทำแบบทดสอบ
+    \begin{figure}[!ht]\centering
+      \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+      \setlength{\fboxsep}{1cm}
+      \fbox{\includegraphics[width=10cm]{./activitytest.jpg}}
+      \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}\label{fig:system}
+     \end{figure}
+    \newpage
+    \item ดูผลลัพธ์การทดสอบ
+    \begin{figure}[!ht]\centering
+      \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+      \setlength{\fboxsep}{1cm}
+      \fbox{\includegraphics[width=10cm]{./activityresult.jpg}}
+      \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}\label{fig:system}
+     \end{figure}
+     \newpage
+    \item ดูสถิติรวมของแอปพลิเคชัน
+    \begin{figure}[!ht]\centering
+      \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+      \setlength{\fboxsep}{1cm}
+      \fbox{\includegraphics[width=10cm]{./activitystat.jpg}}
+      \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}\label{fig:system}
+     \end{figure}
+  \end{itemize}
+ 
 
 
 
@@ -550,11 +656,16 @@ Gaussian blur และจึงปรับภาพให้อยู่ใน
 
 
 
-
-
-
-
-\section{สถาปัตยกรรมระบบ}
+\section{User Interface Design}
+\begin{itemize}
+  \item Home
+  \begin{figure}[!ht]\centering
+    \setlength{\fboxrule}{0.2mm} % can define this in the preamble
+    \setlength{\fboxsep}{1cm}
+    \fbox{\includegraphics[width=10cm]{./activitystat.jpg}}
+    \caption{แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}\label{fig:system}
+   \end{figure}
+\end{itemize}
 
 
 

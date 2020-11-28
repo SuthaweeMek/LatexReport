@@ -4,23 +4,33 @@
 \contentsline {figure}{\numberline {2.2}{\ignorespaces แสดงตัวอย่างโครงข่าย CNN ที่ประกอบด้วย 1. convolutional layer 2. pooling layer 3. fully connected layer }}{4}{}%
 \contentsline {figure}{\numberline {2.3}{\ignorespaces ตัวอย่างการทำ Max pooling และ mean pooling}}{4}{}%
 \contentsline {figure}{\numberline {2.4}{\ignorespaces ภาพอธิบายตัวอย่างของ Transfer Learning}}{5}{}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces ภาพอธิบายตัวอย่างของ Transfer Learning}}{6}{}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces ภาพอธิบายตัวอย่างของ Transfer Learning}}{6}{}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces ภาพตัวอย่างการทำ image segmentation บนภาพ}}{7}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces ภาพตัวอย่างกราฟของ sigmoid function}}{7}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces ภาพตัวอย่างกราฟของ ReLU function}}{7}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces ภาพตัวอย่างการทำ image segmentation บนภาพ}}{8}{}%
 \contentsline {figure}{\numberline {2.8}{\ignorespaces ภาพตัวอย่างขั้นตอนการแปลงเอกสารมาอยู่ในรูปแบบข้อมูลด้วยกระบวนการ OCR}}{8}{}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces ภาพตัวอย่างการทำงานของ Blob coloring}}{8}{}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces ภาพตัวอย่างการทำงานของ Blob coloring}}{9}{}%
-\contentsline {figure}{\numberline {2.11}{\ignorespaces ภาพตัวอย่างการทำงานของ Blob coloring}}{10}{}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces ภาพตัวอย่างการทำงานของ Blob coloring}}{9}{}%
 \addvspace {0em}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces ภาพตัวอย่างการทำงานของ Blob coloring}}{12}{}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces ภาพตัวอย่างการทำงานของ Blob coloring}}{13}{}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการประมวลผลภาพ}}{14}{}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการแยกภาพ}}{14}{}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{15}{}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{15}{}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{16}{}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{17}{}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{18}{}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{19}{}%
-\addvspace {0em}
-\addvspace {0em}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces ภาพ System Architecture ของ LDSpot}}{11}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces ภาพ Use Case Diagram}}{12}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการประมวลผลภาพ}}{13}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการแยกภาพ}}{13}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{14}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces ภาพการสื่อสารระหว่างทางฝั่ง Frontend และ Backend}}{14}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces ภาพ Database ER diagram}}{15}{}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces ภาพ Activity diagram การทำแบบทดสอบ}}{16}{}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces ภาพ Activity diagram การดูผลลัพธ์การทดสอบ}}{17}{}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces ภาพ Activity diagram การดูข้อมูลสถิติในแอปพลิเคชัน}}{18}{}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces ภาพการออกแบบหน้า Login}}{19}{}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces ภาพการออกแบบหน้า Home}}{19}{}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces ภาพการออกแบบหน้าการทำแบบทดสอบด่านแรก}}{20}{}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces ภาพการออกแบบหน้าการทำแบบทดสอบด่านสอง}}{20}{}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces ภาพการออกแบบหน้าการทำแบบทดสอบด่านสาม}}{21}{}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces ภาพการออกแบบหน้าการกดข้ามการเขียนตัวอักษร สระ และคำสะกด}}{21}{}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces ภาพการออกแบบหน้าเขียนตัวอักษร สระ และคำสะกด}}{22}{}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces ภาพการออกแบบหน้าเขียนตัวอักษร สระ และคำสะกด}}{22}{}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces ภาพการออกแบบหน้าจบการทดสอบ}}{23}{}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces ภาพออกแบบหน้าดูผลลัพธ์การทดสอบ}}{23}{}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces ภาพการออกแบบหน้าดูสถิติภายในแอปพลิเคชัน}}{24}{}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces ภาพแบบทดสอบที่ใช้เก็บลายมือตัวอักษรเด็ก}}{25}{}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces ภาพแบบทดสอบที่ใช้เก็บลายมือสระเด็ก}}{26}{}%
+\contentsline {figure}{\numberline {3.24}{\ignorespaces ภาพแบบทดสอบที่ใช้เก็บลายมือคำสะกดเด็ก}}{27}{}%

@@ -1,7 +1,13 @@
 \addvspace {0em}
 \addvspace {0em}
 \addvspace {0em}
-\contentsline {table}{\numberline {3.1}{\ignorespaces แสดงข้อมูลขาเข้าและขาออกของ แอปพลิเคชัน}}{12}{}%
-\contentsline {table}{\numberline {3.2}{\ignorespaces แสดงข้อมูลขาเข้าและขาออกของส่วนการประมวลผลภาพ}}{12}{}%
-\contentsline {table}{\numberline {3.3}{\ignorespaces แสดงข้อมูลขาเข้าและขาออกของส่วนการแยกภาพ}}{13}{}%
-\contentsline {table}{\numberline {3.4}{\ignorespaces แสดงข้อมูลขาเข้าและขาออกของส่วนการวินิจฉัย}}{14}{}%
+\contentsline {table}{\numberline {3.1}{\ignorespaces แสดงข้อมูลขาเข้าและขาออกของ แอปพลิเคชัน}}{18}{table.3.1}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces แสดงข้อมูลขาเข้าและขาออกของส่วนการประมวลผลภาพ}}{18}{table.3.2}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces แสดงข้อมูลขาเข้าและขาออกของส่วนการแยกภาพ}}{18}{table.3.3}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces แสดงข้อมูลขาเข้าและขาออกของส่วนการวินิจฉัย}}{19}{table.3.4}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces แสดงข้อมูลขาเข้าและขาออกของส่วนการวินิจฉัยการหาลำดับตัวอักษรเพื่อทำนายคำสะกด}}{19}{table.3.5}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces Use case narrative ของการทำแบบทดสอบ}}{23}{table.3.6}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces Use case narrative ของการดูผลลัพธ์การทดสอบ}}{25}{table.3.7}%
+\contentsline {table}{\numberline {3.8}{\ignorespaces Use case narrative ของการดูข้อมูลสถิติในแอปพลิเคชัน}}{27}{table.3.8}%
+\contentsline {table}{\numberline {3.9}{\ignorespaces ตาราง Confusion Matrix}}{36}{table.3.9}%
+\addvspace {0em}

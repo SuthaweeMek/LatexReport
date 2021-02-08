@@ -9,7 +9,7 @@
 \contentsline {section}{\numberline {1.2}วัตถุประสงค์}{1}{section.1.2}%
 \contentsline {section}{\numberline {1.3}ขอบเขตของโครงงาน}{1}{section.1.3}%
 \contentsline {section}{\numberline {1.4}ประโยชน์ที่คาดว่าจะได้่รับ}{2}{section.1.4}%
-\contentsline {section}{\numberline {1.5}ตารางการดำเนินงาน}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.5}ตารางการดำเนินงาน}{2}{section.1.5}%
 \contentsline {section}{\numberline {1.6}ผลการดำเนินงาน}{5}{section.1.6}%
 \contentsline {chapter}{\normalsize \bf \MakeUppercase {บทที่ {\numberline {2}\hskip -0.8em ทฤษฎีความรู้และงานที่เกี่ยวข้อง}}}{6}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Core concept แนวคิดหลัก}{6}{section.2.1}%

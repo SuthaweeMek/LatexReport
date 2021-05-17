@@ -1,9 +1,10 @@
+\selectlanguage *{thai}
 \contentsline {chapterx}{\mdseries ABSTRACT}{ii}{Doc-Start}%
 \contentsline {chapterx}{\mdseries บทคัดย่อ}{iii}{Doc-Start}%
-\contentsline {chapterx}{\mdseries กิตติกรรมประกาศ}{iv}{chapter*.1}%
-\contentsline {chapterx}{\mdseries สารบัญ}{vi}{chapter*.2}%
-\contentsline {chapterx}{\mdseries สารบัญตาราง}{vii}{chapter*.3}%
-\contentsline {chapterx}{\mdseries สารบัญรูปภาพ}{viii}{chapter*.4}%
+\contentsline {chapterx}{\mdseries กิตติกรรมประกาศ}{iv}{Doc-Start}%
+\contentsline {chapterx}{\mdseries สารบัญ}{vi}{Doc-Start}%
+\contentsline {chapterx}{\mdseries สารบัญตาราง}{vii}{Doc-Start}%
+\contentsline {chapterx}{\mdseries สารบัญรูปภาพ}{ix}{Doc-Start}%
 \contentsline {chapter}{\normalsize \bf \MakeUppercase {บทที่ {\numberline {1}\hskip -0.8em บทนำ}}}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}ที่มาและความสำคัญ}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}วัตถุประสงค์}{1}{section.1.2}%
@@ -18,43 +19,53 @@
 \contentsline {subsection}{\numberline {2.1.3}Transfer Learning\cite {Transfer}}{8}{subsection.2.1.3}%
 \contentsline {subsection}{\numberline {2.1.4}Activate Function\cite {Activate}}{9}{subsection.2.1.4}%
 \contentsline {subsection}{\numberline {2.1.5}Rectified Linear Unit (ReLU)\cite {ReLuFunc}}{9}{subsection.2.1.5}%
-\contentsline {subsection}{\numberline {2.1.6}การปรับขนาดรูปภาพ (Image rescale)\cite {Imagepre}}{9}{subsection.2.1.6}%
-\contentsline {subsection}{\numberline {2.1.7}การแยกบริเวณรูปภาพ (Image segmentation)\cite {Imagesegment}}{9}{subsection.2.1.7}%
-\contentsline {subsection}{\numberline {2.1.8}การแปลงรูปภาพเป็นข้อความ (Optical character recognition)}{10}{subsection.2.1.8}%
-\contentsline {subsection}{\numberline {2.1.9}Blob coloring}{10}{subsection.2.1.9}%
-\contentsline {section}{\numberline {2.2}Languages and technologies ภาษาโปรแกรมและเทคโนโลยี}{11}{section.2.2}%
+\contentsline {subsection}{\numberline {2.1.6}การปรับขนาดรูปภาพ (Image rescale)\cite {Imagepre}}{10}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}การแยกบริเวณรูปภาพ (Image segmentation)\cite {Imagesegment}}{10}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}การแปลงรูปภาพเป็นข้อความ (Optical character recognition)}{11}{subsection.2.1.8}%
+\contentsline {subsection}{\numberline {2.1.9}Blob coloring}{11}{subsection.2.1.9}%
+\contentsline {section}{\numberline {2.2}Languages and technologies ภาษาโปรแกรมและเทคโนโลยี}{12}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}React Native}{12}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Keras}{12}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}OpenCV\cite {OpenCV}}{12}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Django Rest Framework}{12}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2.3}Related research / Competing solutions บทความที่เกี่ยวข้อง}{12}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Detecting Dyslexia Using Neural Networks\cite {Dyslexia}}{12}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.2.4}Django Rest Framework}{13}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Related research / Competing solutions บทความที่เกี่ยวข้อง}{13}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Detecting Dyslexia Using Neural Networks\cite {Dyslexia}}{13}{subsection.2.3.1}%
 \contentsline {subsubsection}{\numberline {2.3.1.1}การใช้ภาพลายมือในการวินิจฉัยโรค Dyslexia}{13}{subsubsection.2.3.1.1}%
 \contentsline {subsubsection}{\numberline {2.3.1.2}การประมวลผลภาพ}{13}{subsubsection.2.3.1.2}%
 \contentsline {subsubsection}{\numberline {2.3.1.3}Optical character recognition}{13}{subsubsection.2.3.1.3}%
 \contentsline {subsubsection}{\numberline {2.3.1.4}การทำโมเดลวินิจฉัย}{13}{subsubsection.2.3.1.4}%
-\contentsline {chapter}{\normalsize \bf \MakeUppercase {บทที่ {\numberline {3}\hskip -0.8em วิธีการดำเนินงาน}}}{14}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Project Functionality}{14}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}System Architecture}{14}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}System requirements}{14}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Process Flow}{15}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.1.4}Use cases}{16}{subsection.3.1.4}%
-\contentsline {section}{\numberline {3.2}โครงสร้างซอฟต์แวร์}{16}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}แอปพลิเคชันทำแบบทดสอบ (Application)}{18}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}การประมวลผลภาพ (Image processing)}{18}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}การแยกภาพ (Image segmentation)}{18}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}การวินิจฉัย (Learning disorder prediction)}{19}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}การหาลำดับตัวอักษรเพื่อทำนายคำสะกด (OCR}{19}{subsection.3.2.5}%
-\contentsline {section}{\numberline {3.3}Conceptual Design}{20}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Database Design}{21}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Sequence Diagram Design}{22}{section.3.5}%
-\contentsline {section}{\numberline {3.6}User Interface Design}{28}{section.3.6}%
-\contentsline {section}{\numberline {3.7}การเก็บข้อมูลภาพลายมือเด็ก}{34}{section.3.7}%
-\contentsline {section}{\numberline {3.8}แผนการประเมินประสิทธิภาพของแอปพลิเคชัน}{36}{section.3.8}%
-\contentsline {subsection}{\numberline {3.8.1}การวัดผลความแม่นยำของระบบ LDSpot}{36}{subsection.3.8.1}%
-\contentsline {chapter}{\normalsize \bf \MakeUppercase {บทที่ {\numberline {4}\hskip -0.8em ผลการดำเนินงาน}}}{37}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Application}{37}{section.4.1}%
-\contentsline {section}{\numberline {4.2}OCR }{41}{section.4.2}%
-\contentsline {section}{\numberline {4.3} ระบบเก็บรวบรวมข้อมูลทดสอบการเขียนของเด็กที่ได้รับบการทดสอบ}{43}{section.4.3}%
-\contentsline {section}{\numberline {4.4}ส่วนที่กำลังดำเนินการภายในภาคการศึกษาที่ 1}{44}{section.4.4}%
-\contentsline {chapter}{\mdseries \bf \MakeUppercase {บรรณานุกรม}}{45}{chapter*.5}%
+\contentsline {chapter}{\normalsize \bf \MakeUppercase {บทที่ {\numberline {3}\hskip -0.8em วิธีการดำเนินงาน}}}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Project Functionality}{15}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}System Architecture}{15}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}System requirements}{15}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Process Flow}{16}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Use cases}{17}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}โครงสร้างซอฟต์แวร์}{17}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}แอปพลิเคชันทำแบบทดสอบ (Application)}{19}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}การประมวลผลภาพ (Image processing)}{19}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}การแยกภาพ (Image segmentation)}{19}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}การวินิจฉัย (Learning disorder prediction)}{20}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Conceptual Design}{21}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Database Design}{22}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Sequence Diagram Design}{25}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Model architecture}{40}{section.3.6}%
+\contentsline {section}{\numberline {3.7}User Interface Design}{42}{section.3.7}%
+\contentsline {section}{\numberline {3.8}การเก็บข้อมูลภาพลายมือเด็ก}{48}{section.3.8}%
+\contentsline {section}{\numberline {3.9}การเก็บข้อมูลภาพลายมือเด็ก}{50}{section.3.9}%
+\contentsline {section}{\numberline {3.10}แผนการประเมินประสิทธิภาพของแอปพลิเคชัน}{52}{section.3.10}%
+\contentsline {chapter}{\normalsize \bf \MakeUppercase {บทที่ {\numberline {4}\hskip -0.8em ผลการวิจัยและอภิปรายผล}}}{53}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Application Interface}{53}{section.4.1}%
+\contentsline {section}{\numberline {4.2}การนำข้อมูลลายมือเด็กมาใช้}{65}{section.4.2}%
+\contentsline {section}{\numberline {4.3}กระบวนการวิเคราะห์ตัวอักษร สระ และคำสะกด}{67}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Optical Character Recognition (OCR) }{69}{section.4.4}%
+\contentsline {section}{\numberline {4.5}ผลของการทดสอบโปรแกรม}{72}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Confusion Matrix}{72}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}การทดสอบความแม่นยำของการจำแนกถูกผิดกลับด้าน ในตัวอักษร สระ และคำสะกด}{86}{subsection.4.5.2}%
+\contentsline {section}{\numberline {4.6}แบบสอบถามบุคลากรทางการแพทย์}{91}{section.4.6}%
+\contentsline {section}{\numberline {4.7}แบบสอบถามผู้เข้าร่วมทำแบบทดสอบ}{91}{section.4.7}%
+\contentsline {chapter}{\normalsize \bf \MakeUppercase {บทที่ {\numberline {5}\hskip -0.8em สรุปและข้อเสนอแนะ}}}{92}{chapter.5}%
+\contentsline {section}{\numberline {5.1}สรุปผลการดำเนินงาน}{92}{section.5.1}%
+\contentsline {section}{\numberline {5.2}ปัญหาที่พบ}{92}{section.5.2}%
+\contentsline {section}{\numberline {5.3}สิ่งที่ได้เรียนรู้จากการทำโครงงาน}{93}{section.5.3}%
+\contentsline {section}{\numberline {5.4}แนวทางการพัฒนา}{93}{section.5.4}%
+\contentsline {chapter}{\mdseries \bf \MakeUppercase {หนังสืออ้างอิง}}{94}{Item.98}%

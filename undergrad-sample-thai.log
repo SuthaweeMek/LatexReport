@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.11) (preloaded format=xelatex 2020.11.26)  6 DEC 2020 18:05
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.11) (preloaded format=xelatex 2020.11.26)  14 MAY 2021 20:33
 entering extended mode
 **./undergrad-sample-thai.tex
 (undergrad-sample-thai.tex
@@ -252,15 +252,9 @@ LaTeX Info: Redefining \LaTeXe on input line 219.
 \l__xetex_show_hyphens_final_box=\box54
 \g__xetex_show_hyphens_word_box=\box55
 )
-\bibindent=\dimen164
-
-("C:\Program Files\MiKTeX\tex/latex/base\latexsym.sty"
-Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
-\symlasy=\mathgroup6
-LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
-(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
-)
-\c@definition=\count281
+("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 ("C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty"
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
@@ -300,9 +294,9 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ("C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty"
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen165
-\Hy@linkcounter=\count282
-\Hy@pagecounter=\count283
+\@linkdim=\dimen164
+\Hy@linkcounter=\count281
+\Hy@pagecounter=\count282
 
 ("C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def"
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
@@ -313,7 +307,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ("C:\Program Files\MiKTeX\tex/generic/etexcmds\etexcmds.sty"
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count284
+\Hy@SavedSpaceFactor=\count283
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
 Package hyperref Info: Hyper index ON on input line 4472.
@@ -321,14 +315,9 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count285
-
-("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
-\Urlmuskip=\muskip17
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
+\c@Hy@tempcnt=\count284
 LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen166
+\XeTeXLinkMargin=\dimen165
 
 ("C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty"
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -337,9 +326,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count286
-\Field@Width=\dimen167
-\Fld@charsize=\dimen168
+\Fld@menulength=\count285
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
 Package hyperref Info: Hyper figures OFF on input line 6347.
 Package hyperref Info: Link nesting OFF on input line 6352.
 Package hyperref Info: Hyper index ON on input line 6355.
@@ -355,9 +344,9 @@ Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
 )
-\Hy@abspage=\count287
-\c@Item=\count288
-\c@Hfootnote=\count289
+\Hy@abspage=\count286
+\c@Item=\count287
+\c@Hfootnote=\count288
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
@@ -372,10 +361,10 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \pdfm@box=\box56
-\c@Hy@AnnotLevel=\count290
-\HyField@AnnotCount=\count291
-\Fld@listcount=\count292
-\c@bookmark@seq@number=\count293
+\c@Hy@AnnotLevel=\count289
+\HyField@AnnotCount=\count290
+\Fld@listcount=\count291
+\c@bookmark@seq@number=\count292
 
 ("C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty"
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -393,6 +382,18 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip54
 )
+Package hyperref Info: Option `linktocpage' set `true' on input line 49.
+Package hyperref Info: Option `colorlinks' set `true' on input line 49.
+\bibindent=\dimen168
+
+("C:\Program Files\MiKTeX\tex/latex/base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+\c@definition=\count293
+)
 ("C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape.sty"
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
@@ -402,8 +403,193 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 
 )
+("C:\Program Files\MiKTeX\tex/latex/polyglossia\polyglossia.sty"
+Package: polyglossia 2021/03/16 v1.52 Modern multilingual typesetting with XeLa
+TeX and LuaLaTeX
+
+("C:\Program Files\MiKTeX\tex/latex/makecmds\makecmds.sty"
+Package: makecmds 2009/09/03 v1.0a extra command making commands
+)
+("C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty"
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+\xpg@normalclass=\XeTeXcharclass1
+
+("C:\Program Files\MiKTeX\tex/latex/polyglossia\gloss-latex.ldf"
+File: gloss-latex.ldf polyglossia: module for default language
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}.
+)
+Package polyglossia Info: Default language is latex.
+)
+("C:\Program Files\MiKTeX\tex/latex/caption\caption.sty"
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+("C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty"
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen169
+\captionmargin@=\dimen170
+\captionwidth=\dimen171
+\caption@tempdima=\dimen172
+\caption@indent=\dimen173
+\caption@parindent=\dimen174
+\caption@hangindent=\dimen175
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \sbox \@tempboxa {{\bf #1} #2}\ifdim \wd \@tempboxa >\hsize {\bf #1} #2\par \
+else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\fi \
+vskip \belowcaptionskip  on input line 1139.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count294
+\c@continuedfloat=\count295
+Package caption Info: hyperref package is loaded.
+) ("C:\Program Files\MiKTeX\tex/latex/multirow\multirow.sty"
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count296
+\multirow@dima=\skip56
+\bigstrutjot=\dimen176
+)
+("C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty"
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+("C:\Program Files\MiKTeX\tex/latex/polyglossia\gloss-thai.ldf"
+File: gloss-thai.ldf polyglossia: module for thai
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {thai/script}  =>  {Thai}
+>  {thai/lcscript}  =>  {thai}
+>  {thai/scripttag}  =>  {thai}
+>  {thai/language}  =>  {Thai}
+>  {thai/langtag}  =>  {THA}
+>  {thai/bcp47}  =>  {th}
+>  {thai/hyphennames}  =>  {nohyphenation}
+>  {thai/direction}  =>  {LR}
+>  {thai/hyphenmins}  =>  {2,3}
+>  {thai/frenchspacing}  =>  {false}
+>  {thai/indentfirst}  =>  {false}
+>  {thai/fontsetup}  =>  {true}
+>  {thai/envname}  =>  {thai}
+>  {thai/babelname}  =>  {thai}
+>  {thai/localnumeral}  =>  {thainumerals}
+>  {thai/Localnumeral}  =>  {thainumerals}.
+)
+Package polyglossia Info: Default language is thai.
+
+("C:\Program Files\MiKTeX\tex/latex/polyglossia\gloss-english.ldf"
+File: gloss-english.ldf polyglossia: module for english
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {thai/script}  =>  {Thai}
+>  {thai/lcscript}  =>  {thai}
+>  {thai/scripttag}  =>  {thai}
+>  {thai/language}  =>  {Thai}
+>  {thai/langtag}  =>  {THA}
+>  {thai/bcp47}  =>  {th}
+>  {thai/hyphennames}  =>  {nohyphenation}
+>  {thai/direction}  =>  {LR}
+>  {thai/hyphenmins}  =>  {2,3}
+>  {thai/frenchspacing}  =>  {false}
+>  {thai/indentfirst}  =>  {false}
+>  {thai/fontsetup}  =>  {true}
+>  {thai/envname}  =>  {thai}
+>  {thai/babelname}  =>  {thai}
+>  {thai/localnumeral}  =>  {thainumerals}
+>  {thai/Localnumeral}  =>  {thainumerals}
+>  {english/script}  =>  {latin}
+>  {english/lcscript}  =>  {latin}
+>  {english/scripttag}  =>  {}
+>  {english/language}  =>  {English}
+>  {english/langtag}  =>  {ENG}
+>  {english/bcp47}  =>  {en-US}
+>  {english/hyphennames}  =>  {english,american,usenglish,USenglish}
+>  {english/direction}  =>  {LR}
+>  {english/hyphenmins}  =>  {2,3}
+>  {english/frenchspacing}  =>  {false}
+>  {english/indentfirst}  =>  {false}
+>  {english/fontsetup}  =>  {true}
+>  {english/envname}  =>  {english}
+>  {english/babelname}  =>  {english}
+>  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
+Package polyglossia Info: Option: English, variant=american.
+)
 
 Package fontspec Info: Font family 'THSarabunNew(0)' created for font 'TH
+(fontspec)             Sarabun New' with options [Script=Thai,Scale=1.23].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1.23]"TH
+(fontspec)             Sarabun New/OT:script=thai;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1.23]"TH Sarabun
+(fontspec)             New/B/OT:script=thai;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1.23]"TH
+(fontspec)             Sarabun New/I/OT:script=thai;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->s*[1.23]"TH
+(fontspec)             Sarabun New/BI/OT:script=thai;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'THSarabunNew(1)' created for font 'TH
 (fontspec)             Sarabun New' with options
 (fontspec)             [Mapping=tex-text,Scale=1.23,LetterSpace=0.0,Ligatures=T
 eX,Scale=1.23,LetterSpace=0,WordSpace=1.0,FakeStretch=1.0].
@@ -447,13 +633,24 @@ erspace=0;extend=1.0;mapping=tex-text;"
 (fontspec)             3\font =1.0\fontdimen 3\font \fontdimen 4\font
 (fontspec)             =1.0\fontdimen 4\font 
 
-LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 12.29996pt on input line 10.
-\c@theorem=\count294
-\c@lemma=\count295
-\c@corollary=\count296
+LaTeX Font Info:    Font shape `TU/THSarabunNew(1)/m/n' will be
+(Font)              scaled to size 12.29996pt on input line 21.
 
+! Too many }'s.
+l.72 alphabet, vowels and word writing}}
+                                        
+? 
+\c@theorem=\count297
+\c@lemma=\count298
+\c@corollary=\count299
 (undergrad-sample-thai.aux
+LaTeX Info: Redefining \rmfamily on input line 19.
+LaTeX Info: Redefining \sffamily on input line 19.
+LaTeX Info: Redefining \ttfamily on input line 19.
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
+(Font)              scaled to size 12.29996pt on input line 19.
+\thai@year=\count300
+
 
 LaTeX Warning: Label `fig:system' multiply defined.
 
@@ -488,7 +685,16 @@ LaTeX Warning: Label `tbl:application1' multiply defined.
 LaTeX Warning: Label `tbl:application1' multiply defined.
 
 
-LaTeX Warning: Label `fig:system' multiply defined.
+LaTeX Warning: Label `tbl:application1' multiply defined.
+
+
+LaTeX Warning: Label `tbl:application1' multiply defined.
+
+
+LaTeX Warning: Label `tbl:application1' multiply defined.
+
+
+LaTeX Warning: Label `tbl:application1' multiply defined.
 
 
 LaTeX Warning: Label `tbl:application1' multiply defined.
@@ -503,7 +709,13 @@ LaTeX Warning: Label `fig:activity3' multiply defined.
 LaTeX Warning: Label `tbl:application1' multiply defined.
 
 
-LaTeX Warning: Label `fig:system' multiply defined.
+LaTeX Warning: Label `tbl:application1' multiply defined.
+
+
+LaTeX Warning: Label `tbl:application1' multiply defined.
+
+
+LaTeX Warning: Label `fig:convolutionallayer' multiply defined.
 
 
 LaTeX Warning: Label `fig:system' multiply defined.
@@ -569,6 +781,120 @@ LaTeX Warning: Label `fig:system' multiply defined.
 LaTeX Warning: Label `fig:system' multiply defined.
 
 
+LaTeX Warning: Label `fig:endgame' multiply defined.
+
+
+LaTeX Warning: Label `fig:endgame' multiply defined.
+
+
+LaTeX Warning: Label `fig:childrenTest' multiply defined.
+
+
+LaTeX Warning: Label `fig:system' multiply defined.
+
+
+LaTeX Warning: Label `fig:system' multiply defined.
+
+
+LaTeX Warning: Label `fig:system' multiply defined.
+
+
+LaTeX Warning: Label `fig:system' multiply defined.
+
+
+LaTeX Warning: Label `fig:system' multiply defined.
+
+
+LaTeX Warning: Label `fig:system' multiply defined.
+
+
+LaTeX Warning: Label `fig:system' multiply defined.
+
+
+LaTeX Warning: Label `fig:system' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
+LaTeX Warning: Label `sa' multiply defined.
+
+
 LaTeX Warning: Label `fig:system' multiply defined.
 
 
@@ -588,43 +914,58 @@ LaTeX Warning: Label `fig:system' multiply defined.
 
 
 LaTeX Warning: Label `fig:system' multiply defined.
+
+
+LaTeX Warning: Label `fig:system' multiply defined.
+
+
+LaTeX Warning: Label `fig:system' multiply defined.
+
+
+LaTeX Warning: Label `tbl:application1' multiply defined.
+
+
+LaTeX Warning: Label `tbl:application1' multiply defined.
+
+
+LaTeX Warning: Label `tbl:application1' multiply defined.
 
 )
 \openout1 = `undergrad-sample-thai.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 102.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 117.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-02.
+17.
  ("C:\Program Files\MiKTeX\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 102.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 10
-2.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 117.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 11
+7.
 
 ("C:\Program Files\MiKTeX\tex/latex/tipa\t3cmr.fd"
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -659,7 +1000,16 @@ LaTeX Font Info:    ... okay on input line 102.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 102.
+("C:\Program Files\MiKTeX\tex/latex/graphics\color.sty"
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 117.
+
 ("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -669,36 +1019,41 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ("C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count297
+\c@section@level=\count301
 )
-LaTeX Info: Redefining \ref on input line 102.
-LaTeX Info: Redefining \pageref on input line 102.
-LaTeX Info: Redefining \nameref on input line 102.
+LaTeX Info: Redefining \ref on input line 117.
+LaTeX Info: Redefining \pageref on input line 117.
+LaTeX Info: Redefining \nameref on input line 117.
 
 (undergrad-sample-thai.out) (undergrad-sample-thai.out)
 \@outlinefile=\write3
 \openout3 = `undergrad-sample-thai.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 104
-.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \rmfamily on input line 117.
+LaTeX Info: Redefining \sffamily on input line 117.
+LaTeX Info: Redefining \ttfamily on input line 117.
+LaTeX Info: Redefining \rmfamily on input line 117.
+LaTeX Info: Redefining \sffamily on input line 117.
+LaTeX Info: Redefining \ttfamily on input line 117.
+\thai@year=\count302
+File: logo02.jpg Graphic file (type bmp)
+<logo02.jpg>
 
-("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 104
-.
 
-("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 10
-4.
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
-("C:\Program Files\MiKTeX\tex/latex/base\ulasy.fd"
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-Underfull \hbox (badness 10000) in alignment at lines 104--104
-[] [] 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 \maketitlepage
+                    
+? 
+
+Overfull \hbox (91.89563pt too wide) in paragraph at lines 125--125
+ [][] 
  []
 
 ("C:\Program Files\MiKTeX\tex/generic/stringenc\se-ascii-print.def"
@@ -709,400 +1064,256 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 ]
 
-Package hyperref Warning: bookmark level for unknown chapterx defaults to 0.
+! LaTeX Error: Something's wrong--perhaps a missing \item.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 \makesignaturepage
+                        
+? 
 
-Overfull \hbox (32.80968pt too wide) in paragraph at lines 109--109
-[]|\TU/THSarabunNew(0)/m/n/10 แอลดีสปอต-ระบบตรวจจับอาการโรคการบกพร่องทางการเรีย
-นรู้ในเด็กผ่านแบบทดสอบการเขียนตัวอักษร
+Overfull \hbox (20.62962pt too wide) in paragraph at lines 126--126
+ [][] 
  []
 
-LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 12.29996pt on input line 109.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 126
+.
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 126
+.
 
-Underfull \hbox (badness 10000) in alignment at lines 124--126
-[][] 
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 12
+6.
+
+("C:\Program Files\MiKTeX\tex/latex/base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Underfull \hbox (badness 10000) in alignment at lines 126--126
+[] [] 
  []
 
 [2]
 
-Package fontspec Info: Font family 'THSarabunNew:script=thai(0)' created for
-(fontspec)             font 'TH Sarabun New:script=thai' with options
-(fontspec)             [Mapping=tex-text,Scale=1.23,LetterSpace=0.0,Scale=1.3].
-
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1.3]"TH Sarabun
-(fontspec)             New:script=thai/OT:script=latn;language=dflt;letterspace
-=0.0;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1.3]"TH Sarabun
-(fontspec)             New:script=thai/B/OT:script=latn;language=dflt;letterspa
-ce=0.0;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1.3]"TH
-(fontspec)             Sarabun
-(fontspec)             New:script=thai/I/OT:script=latn;language=dflt;letterspa
-ce=0.0;mapping=tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->s*[1.3]"TH
-(fontspec)             Sarabun
-(fontspec)             New:script=thai/BI/OT:script=latn;language=dflt;lettersp
-ace=0.0;mapping=tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
-
-LaTeX Font Info:    Font shape `TU/THSarabunNew:script=thai(0)/m/n' will be
-(Font)              scaled to size 13.00003pt on input line 135.
+Package hyperref Warning: bookmark level for unknown chapterx defaults to 0.
 
 
-Package fontspec Warning: Language 'Thai' not available for font 'TH Sarabun
-(fontspec)                New:script=thai' with script 'CustomDefault'.
+Overfull \hbox (70.7269pt too wide) in paragraph at lines 131--131
+[]  
+ []
 
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
+(Font)              scaled to size 12.29996pt on input line 131.
 
-Package fontspec Info: Font family 'THSarabunNew:script=thai(1)' created for
-(fontspec)             font 'TH Sarabun New:script=thai' with options
-(fontspec)             [Mapping=tex-text,Scale=1.23,LetterSpace=0.0,Language=Th
-ai,Scale=1.23].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1.23]"TH
-(fontspec)             Sarabun
-(fontspec)             New:script=thai/OT:script=latn;language=dflt;letterspace
-=0.0;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1.23]"TH Sarabun
-(fontspec)             New:script=thai/B/OT:script=latn;language=dflt;letterspa
-ce=0.0;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1.23]"TH
-(fontspec)             Sarabun
-(fontspec)             New:script=thai/I/OT:script=latn;language=dflt;letterspa
-ce=0.0;mapping=tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->s*[1.23]"TH
-(fontspec)             Sarabun
-(fontspec)             New:script=thai/BI/OT:script=latn;language=dflt;lettersp
-ace=0.0;mapping=tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+Underfull \hbox (badness 10000) in alignment at lines 146--148
+[][] 
+ []
 
-LaTeX Font Info:    Font shape `TU/THSarabunNew:script=thai(1)/m/n' will be
-(Font)              scaled to size 12.29996pt on input line 136.
-
-Package fontspec Warning: Language 'Thai' not available for font 'TH Sarabun
-(fontspec)                New:script=thai' with script 'CustomDefault'.
-
-
-Package fontspec Warning: Language 'Thai' not available for font 'TH Sarabun
-(fontspec)                New:script=thai' with script 'CustomDefault'.
-
-
-Package fontspec Warning: Language 'Thai' not available for font 'TH Sarabun
-(fontspec)                New:script=thai' with script 'CustomDefault'.
-
-
-Package fontspec Warning: Language 'Thai' not available for font 'TH Sarabun
-(fontspec)                New:script=thai' with script 'CustomDefault'.
+[2]
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+\thai@year=\count303
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+\thai@year=\count304
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+\thai@year=\count305
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+\thai@year=\count306
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+\thai@year=\count307
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
 
 ! Undefined control sequence.
 \thaiabstract ...visor \else & \thaidisscoadvisor 
                                                   \\ \fi \textthai {หลักสูตร...
-l.136 \thaiabstract
+l.158 \thaiabstract
                    
 ? 
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+\thai@year=\count308
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+\thai@year=\count309
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+\thai@year=\count310
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+\thai@year=\count311
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+\thai@year=\count312
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+\thai@year=\count313
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
+\thai@year=\count314
+LaTeX Info: Redefining \rmfamily on input line 158.
+LaTeX Info: Redefining \sffamily on input line 158.
+LaTeX Info: Redefining \ttfamily on input line 158.
 
-Package fontspec Warning: Language 'Thai' not available for font 'TH Sarabun
-(fontspec)                New:script=thai' with script 'CustomDefault'.
-
-
-Package fontspec Warning: Language 'Thai' not available for font 'TH Sarabun
-(fontspec)                New:script=thai' with script 'CustomDefault'.
-
-
-Package fontspec Warning: Language 'Thai' not available for font 'TH Sarabun
-(fontspec)                New:script=thai' with script 'CustomDefault'.
-
-
-Package fontspec Warning: Language 'Thai' not available for font 'TH Sarabun
-(fontspec)                New:script=thai' with script 'CustomDefault'.
-
-
-Package fontspec Warning: Language 'Thai' not available for font 'TH Sarabun
-(fontspec)                New:script=thai' with script 'CustomDefault'.
-
-
-Package fontspec Warning: Language 'Thai' not available for font 'TH Sarabun
-(fontspec)                New:script=thai' with script 'CustomDefault'.
-
-
-Package fontspec Warning: Language 'Thai' not available for font 'TH Sarabun
-(fontspec)                New:script=thai' with script 'CustomDefault'.
-
-
-Overfull \hbox (9.24678pt too wide) in paragraph at lines 138--148
-[]\TU/THSarabunNew:script=thai(0)/m/n/10 ปัญหาการเรียนของเด็กเป็นปัญหาที่พบเพิ่
-มมากขึ้น ซึ่งสาเหตุที่พบบ่อยของปัญหาการเรียนในเด็กมาจากความบกพร่อง
+Underfull \hbox (badness 1648) in paragraph at lines 177--178
+[]|\TU/THSarabunNew(0)/m/n/10 โรค การ พก พร่อง ทางการ เรียน รู้ (Learning disor
+der), โครง ข่าย ประสาท เทียม แบบ สัง วัต นา การ
  []
 
 
-Overfull \hbox (2.01105pt too wide) in paragraph at lines 138--148
-\TU/THSarabunNew:script=thai(0)/m/n/10 เด็กที่มีความบกพร่องทางการเรียนรู้อาจจะเ
-รียนรู้ช้า ผลการเรียนตกต่ำ ซ้ำชั้น หรือมีปัญหาพฤติกรรม ซึ่งเด็กจำเป็นต้องใช้ทัก
-ษะการ
- []
-
-
-Overfull \hbox (7.69208pt too wide) in paragraph at lines 138--148
-\TU/THSarabunNew:script=thai(0)/m/n/10 ส่วนและแพทย์ผู้เชี่ยวชาญในการวิเคราะห์ แ
-ต่เนื่องจากปัจจุบันจำนวนบุคลากรทางการแพทย์ผู้เชี่ยวชาญมีอยู่อย่างจำกัด จึงทำให้
-การ
- []
-
-
-Overfull \hbox (16.10309pt too wide) in paragraph at lines 138--148
-\TU/THSarabunNew:script=thai(0)/m/n/10 ให้ความร่วมมือในการทำแบบทดสอบเพื่อวินิจฉ
-ัยโรค ทางกลุ่มผู้พัฒนาจึงนำเสนอ “แอลดีสปอต : ระบบตรวจจับอาการโรคการบกพร่อง
- []
-
-
-Overfull \hbox (8.30309pt too wide) in paragraph at lines 138--148
-\TU/THSarabunNew:script=thai(0)/m/n/10 กรองเด็กที่มีความจำเป็นที่จะต้องพบแพทย์เ
-พื่อวินิจฉัยโรคอย่างละเอียดได้รวดเร็วมากยิ่งขึ้น ซึ่งแพทย์จะได้รับข้อมูลสรุปทาง
-สถิติจาก
- []
-
-
-Overfull \hbox (10.63008pt too wide) in paragraph at lines 138--148
-\TU/THSarabunNew:script=thai(0)/m/n/10 ผิด เป็นต้น) จากระบบดังกล่าวเพื่อประกอบก
-ารวินิจฉัยโรคได้อย่างมีประสิทธิภาพมากยิ่งขึ้น นอกจากนี้แบบทดสอบเพื่อตรวจจับความ
-
- []
-
-
-Overfull \hbox (1.17908pt too wide) in paragraph at lines 138--148
-\TU/THSarabunNew:script=thai(0)/m/n/10 บกพร่องทางด้านการเขียนและสะกดคำจะอยู่ในร
-ูปแบบของเกมเพื่อกระตุ้นให้เด็กทำแบบทดสอบได้อย่างครบถ้วน ตัวแอปพลิเคชัน
- []
-
-
-Overfull \hbox (25.50214pt too wide) in paragraph at lines 138--148
-\TU/THSarabunNew:script=thai(0)/m/n/10 แอลดีสปอตจะให้เด็กทำแบบทดสอบผ่านแท็ปเล็ต
-หรือมือถือ โดยการเขียนตัวพยัญชนะ สระและสะกดคำ ตามเสียงที่ขึ้นมาในแอปพลิเคชัน
- []
-
-
-Overfull \hbox (18.4691pt too wide) in paragraph at lines 138--148
-\TU/THSarabunNew:script=thai(0)/m/n/10 ซึ่งตัวแบบทดสอบจะในลักษณะของเกมแนวแก้ปัญ
-หาให้เด็กทำแบบทดสอบพร้อมกับผจญภัยไปกับแต่ละด่านให้เด็กเกิดความสนุกสนาน
- []
-
-LaTeX Font Info:    Font shape `TU/THSarabunNew:script=thai(0)/b/n' will be
-(Font)              scaled to size 13.00003pt on input line 154.
-
-Underfull \hbox (badness 10000) in alignment at lines 151--155
+Underfull \hbox (badness 10000) in alignment at lines 174--178
 [][] 
  []
 
 [3]
+! Too many }'s.
+l.181 }
+       
+? 
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 14.75995pt on input line 163.
+(Font)              scaled to size 14.75995pt on input line 186.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 14.75995pt on input line 163.
- [4
+(Font)              scaled to size 14.75995pt on input line 186.
+[4
 
-] (undergrad-sample-thai.toc [5
+] (undergrad-sample-thai.toc
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+\thai@year=\count315
+ [5
 
 ])
 \tf@toc=\write4
 \openout4 = `undergrad-sample-thai.toc'.
 
- [6] (undergrad-sample-thai.lot)
+ [6] (undergrad-sample-thai.lot
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+\thai@year=\count316
+ [7
+
+])
 \tf@lot=\write5
 \openout5 = `undergrad-sample-thai.lot'.
 
 
-[7
-
-] (undergrad-sample-thai.lof [8
+[8] (undergrad-sample-thai.lof
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+\thai@year=\count317
+ [9
 
 ])
 \tf@lof=\write6
 \openout6 = `undergrad-sample-thai.lof'.
 
- [9]
+ [10]
 บทที่ 1.
-! Undefined control sequence.
-\MakeUppercase ...ppercaseUnsupportedInPdfStrings 
-                                                  
-l.207 \chapter{บทนำ}
-                    
-? 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 207.
+(hyperref)                removed on input line 234.
 
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 17.71193pt on input line 207.
+(Font)              scaled to size 17.71193pt on input line 234.
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 17.71193pt on input line 207.
-
-Overfull \hbox (0.99901pt too wide) in paragraph at lines 216--217
-\TU/THSarabunNew(0)/m/n/10 จำนวนหรือบวกคูณลบเลขผิด จึงไม่สามารถทำให้คำนวณเลขได้
- สาเหตุของโรคการบกพร่องทางการเรียนรู้ที่เกิดจากการทำงานผิดปกติของ
- []
-
-
-Overfull \hbox (0.3594pt too wide) in paragraph at lines 216--217
-\TU/THSarabunNew(0)/m/n/10 สมองมีได้หลายสาเหตุด้วยกัน เช่น การทำงานของสมองบางตำ
-แหน่งบกพร่อง กรรมพันธุ์ หรือความผิดปกติของโครโมโซม อ้างอิงจากข้อมูล
- []
-
-
-Overfull \hbox (0.86281pt too wide) in paragraph at lines 216--217
-\TU/THSarabunNew(0)/m/n/10 ที่ได้มาจาก พญ.วินัดดา ปิยะศิลป์ในพ.ศ. 2554 คาดว่ามี
-เด็กที่เป็นโรคการบกพร่องทางการเรียนรู้ หรือ LD (Learning Disorders) ประมาณ
- []
-
-
-Overfull \hbox (16.54617pt too wide) in paragraph at lines 216--217
-\TU/THSarabunNew(0)/m/n/10 วินิจฉัยโรคบกพร่องทางการเรียนรู้ได้ ซึ่งจะมีบุคลากรท
-างการแพทย์ควบคุมการทำแบบทดสอบและจำเป็นต้องให้แพทย์ผู้เชี่ยวชาญเป็นผู้วินิจฉัย
- []
-
-
-Overfull \hbox (1.47868pt too wide) in paragraph at lines 216--217
-\TU/THSarabunNew(0)/m/n/10 กระบวนการนี้ใช้ระยะเวลานาน เนื่องจากบุคลากรการแพทย์ม
-ีจำกัด ทำให้ไม่สามารถรองรับเด็กเข้ามาทำแบบทดสอบได้เป็นจำนวนมากต่อ
- []
-
-
-Overfull \hbox (14.94717pt too wide) in paragraph at lines 218--219
-[]\TU/THSarabunNew(0)/m/n/10 แอลดีสปอต นั้นจะช่วยให้การวินิจฉัยโรคการบกพร่องทาง
-การเรียนรู้เบื้องต้นในเด็กสามารถเข้าถึงได้ง่ายขึ้นโดยที่เด็กจะสามารถ
- []
-
-
-Overfull \hbox (14.20917pt too wide) in paragraph at lines 218--219
-\TU/THSarabunNew(0)/m/n/10 ทำแบบทดสอบเบื้องต้นได้ผ่านทางแอปพลิเคชันก่อนที่จะเดิ
-นทางมาที่โรงพยาบาลเพื่อที่จะลดความซับซ้อนและระยะเวลาในการรอการวินิจฉัย
- []
-
-
-Overfull \hbox (3.60074pt too wide) in paragraph at lines 227--228
-[]\TU/THSarabunNew(0)/m/n/10 เพื่อพัฒนาระบบวิเคราะห์รูปภาพลายมือเขียนของเด็กเพื
-่อวินิจฉัยโอกาสเป็นโรคการบกพร่องทางการเรียนรู้ด้านการเขียนและสะกด
- []
-
-
-Overfull \hbox (1.23917pt too wide) in paragraph at lines 237--238
-[]\TU/THSarabunNew(0)/m/n/10 ระบบวิเคราะห์รูปภาพลายมือของเด็กซึ่งถูกสร้างขึ้นมา
-จากข้อมูลแบบทดสอบการเขียนของเด็กที่เป็นโรคการบกพร่องทางการเรียน
- []
-
-
-Overfull \hbox (13.33005pt too wide) in paragraph at lines 239--240
-[]\TU/THSarabunNew(0)/m/n/10 ผลลัพธ์จะออกมาในรูปแบบจำนวนความผิดพลาดจากที่เขียนผ
-ิด และความน่าจะเป็นว่าเด็กมีความน่าจะเป็นที่โรคการบกพร่องทางการ
- []
-
-
-Overfull \hbox (5.86397pt too wide) in paragraph at lines 239--240
-\TU/THSarabunNew(0)/m/n/10 เรียนรู้เท่าใด โดยตัวระบบจะเรียนรู้จากภาพการเขียนทดส
-อบของเด็กที่เป็นโรคการบกพร่องทางการเรียนรู้และภาพการเขียนทดสอบ
- []
-
+(Font)              scaled to size 17.71193pt on input line 234.
 [1
 
-]
-Overfull \hbox (10.61171pt too wide) in paragraph at lines 240--241
-[]\TU/THSarabunNew(0)/m/n/10 ระบบจะแสดงผลลัพธ์ที่ได้จากการวินิจฉัยในแอปพลิเคชัน
- โดยที่ผู้ปกครองและบุคลากรทางกาารแพทย์จะสามารถเข้ามาดูผลลัพธ์แล้ว
- []
-
-[2]
+] [2]
 File: ./gantt1.jpg Graphic file (type bmp)
 <./gantt1.jpg>
 File: ./gantt2.jpg Graphic file (type bmp)
 <./gantt2.jpg>
  [3
 
-] [4]
-Overfull \hbox (3.19489pt too wide) in paragraph at lines 292--293
-[]\TU/THSarabunNew(0)/m/n/10 ระบบวิเคราะห์รูปภาพลายมือเขียนแบบทดสอบของเด็กเพื่อ
-วินิจฉัยโอกาสเป็นโรคการเรียนรู้บกพร่องเบื้องต้นในเด็กได้อย่างแม่นยำ 
- []
-
-
-Overfull \hbox (7.35228pt too wide) in paragraph at lines 293--294
-[]\TU/THSarabunNew(0)/m/n/10 แอปพลิเคชัน ที่อยู่ในรูปแบบเกมส์เพื่อให้เด็กเล่นแล
-ะสามารถทำแบบทดสอบไปพร้อมกันโดยจากนั้นนำภาพไปใช้ในการวินิจฉัยความ
- []
-
-[5
+] [4] [5
 
 ]
 บทที่ 2.
-! Undefined control sequence.
-\MakeUppercase ...ppercaseUnsupportedInPdfStrings 
-                                                  
-l.300 \chapter{ทฤษฎีความรู้และงานที่เกี่ยวข้อง}
-                                               
-? 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 300.
-
-
-Overfull \hbox (8.4159pt too wide) in paragraph at lines 302--306
-[]\TU/THSarabunNew(0)/m/n/10 เนื่องจากตัวระบบที่เราสร้างขึ้นมาเพื่อวินิจฉัยโรคก
-ารเรียนรู้บกพร่องในเด็กนั้นจะต้องทำการเรียนรู้ข้อมูลลักษณะจุดเด่นต่างๆ
- []
-
-
-Overfull \hbox (1.90926pt too wide) in paragraph at lines 302--306
-\TU/THSarabunNew(0)/m/n/10 ของภาพผลแบบทดสอบการเรียนรู้บกพร่องในเด็กว่า มีลักษณะ
-เด่นใดจึงจำแนกว่าเด็กคนนั้นมีโอกาสเป็นโรคการเรียนรู้บกพร่องในเด็ก จาก
- []
+(hyperref)                removed on input line 328.
 
 LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/b/n' will be
-(Font)              scaled to size 13.52995pt on input line 307.
-
-Overfull \hbox (0.7103pt too wide) in paragraph at lines 313--314
-[]\TU/THSarabunNew(0)/m/n/10 Hidden Layer มีหน้าที่สำหรับการประเมินข้อมูลที่ป้อ
-นเข้ามา เพื่อหาข้อมูลต่างๆที่ใช้ในการจำแนกประเภทโดยตัว Hidden Layer
- []
-
+(Font)              scaled to size 13.52995pt on input line 335.
 File: ./DeepLearning.jpg Graphic file (type bmp)
 <./DeepLearning.jpg>
 ! Undefined control sequence.
-l.322   \source
+l.350   \source
                {[ที่มา : https://verneglobal.com/news/blog/deep-learning-at-...
 
 ? 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 325.
+(hyperref)                removing `\@ifnextchar' on input line 353.
 
 ! Undefined control sequence.
-l.326 \FloatBarrierในปัจจุบันการทำ
+l.354 \FloatBarrierในปัจจุบันการทำ
                                    การจำแนกประเภทรูปภาพ สำหรับทางด้านการแพทย...
 
 ? 
-
-Overfull \hbox (0.3963pt too wide) in paragraph at lines 326--330
-[]\TU/THSarabunNew(0)/m/n/10 การจำแนกประเภทรูปภาพ สำหรับทางด้านการแพทย์กำลังเป็
-นที่สนใจ โครงข่ายประสาทเทียมแบบสังวัตนาการ หรือ CNN
- []
-
 File: ./cnn.jpg Graphic file (type bmp)
 <./cnn.jpg>
 ! Undefined control sequence.
-l.337   \source
+l.365   \source
                {[ที่มา : https://developers.google.com/machine-learning/prac...
 
 ? 
@@ -1113,282 +1324,174 @@ File: ./pooling.png Graphic file (type bmp)
 <./pooling.png>
 
 ! Undefined control sequence.
-l.351     \source
+l.379     \source
                  {[ที่มา : https://stackoverflow.com/questions/44287965]}
 ? 
 [7]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 358.
+(hyperref)                removing `\@ifnextchar' on input line 386.
 
 File: ./transfer.jpg Graphic file (type bmp)
 <./transfer.jpg>
 ! Undefined control sequence.
-l.367   \source
+l.395   \source
                {[ที่มา : https://www.topbots.com/transfer-learning-in-nlp/]}
 ? 
 [8]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 371.
-
-
-Overfull \hbox (0.26105pt too wide) in paragraph at lines 372--376
-[]\TU/THSarabunNew(0)/m/n/10 Activate function มีหน้าที่ในการปรับผลลัพธ์ ของ ne
-uron ในแต่ละ layer ก่อนจะส่งต่อไปเป็นข้อมูลนำเข้าสำหรับ layer
- []
+(hyperref)                removing `\@ifnextchar' on input line 399.
 
 File: ./sigmoid.jpg Graphic file (type bmp)
 <./sigmoid.jpg>
 ! Undefined control sequence.
-l.382   \source
+l.410   \source
                {[ที่มา : https://www.researchgate.net/figure/An-illustration...
 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.382 ...-signal-processing-in-a-sigmoid-function_
+l.410 ...-signal-processing-in-a-sigmoid-function_
                                                   fig2_239269767]}
 ? 
 ! Extra }, or forgotten $.
-l.382 ...ng-in-a-sigmoid-function_fig2_239269767]}
+l.410 ...ng-in-a-sigmoid-function_fig2_239269767]}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.383 \end{figure}
+l.411 \end{figure}
                   
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.383 \end{figure}
+l.411 \end{figure}
                   
 ? 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 385.
+(hyperref)                removing `\@ifnextchar' on input line 413.
 
 File: ./relu.jpg Graphic file (type bmp)
 <./relu.jpg>
 ! Undefined control sequence.
-l.397   \source
+l.425   \source
                {[ที่มา : https://www.researchgate.net/figure/ReLU-activation...
 
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.397 ...gate.net/figure/ReLU-activation-function_
+l.425 ...gate.net/figure/ReLU-activation-function_
                                                   fig7_333411007]}
 ? 
 ! Extra }, or forgotten $.
-l.397 ...ReLU-activation-function_fig7_333411007]}
+l.425 ...ReLU-activation-function_fig7_333411007]}
                                                   
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.398 \end{figure}
+l.426 \end{figure}
                   
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.398 \end{figure}
+l.426 \end{figure}
                   
 ? 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 402.
+(hyperref)                removing `\@ifnextchar' on input line 430.
 
+[9]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 407.
-
-
-Overfull \hbox (17.22913pt too wide) in paragraph at lines 411--412
-[]\TU/THSarabunNew(0)/m/n/10 Region-Based Segmentation เป็นการแยกวัตถุออกจากภาพ
-ด้วยวิธีการใช้ค่า threshold เพื่อปรับภาพที่อยู่ในรูปแบบของ grayscale
- []
+(hyperref)                removing `\@ifnextchar' on input line 435.
 
 File: ./imagesegment.jpg Graphic file (type bmp)
 <./imagesegment.jpg>
 ! Undefined control sequence.
-l.421   \source
+l.449   \source
                {[ที่มา : https://www.learnopencv.com/applications-of-foregro...
 
 ? 
-[9]
-Overfull \hbox (0.63pt too wide) in paragraph at lines 427--429
-\TU/THSarabunNew(0)/m/n/10 เก็บนำไปใช้ต่อ ซึ่งเราสามารถนำเทคโนโลยีไปประยุกต์ใช้
-ได้ในหลากหลายด้าน เช่น วิเคราะห์ทะเบียนรถยนต์ ด้านการทำระบบค้นหาข้อมูล
- []
-
+[10]
 File: ./ocr.jpg Graphic file (type bmp)
 <./ocr.jpg>
+
 ! Undefined control sequence.
-l.435   \source
+l.463   \source
                {[ที่มา : https://medium.com/states-title/using-nlp-bert-to-i...
 
 ? 
 File: ./blob.jpg Graphic file (type bmp)
 <./blob.jpg>
 ! Undefined control sequence.
-l.447   \source
+l.475   \source
                {[ที่มา : http://what-when-how.com/introduction-to-video-and-...
 
 ? 
 File: ./market.jpg Graphic file (type bmp)
 <./market.jpg>
 ! Undefined control sequence.
-l.461   \source
+l.489   \source
                {[ที่มา : https://gs.statcounter.com/os-market-share/mobile-t...
 
 ? 
 ! You can't use `macro parameter character #' in horizontal mode.
-l.461 ...os-market-share/mobile-tablet/worldwide/#
+l.489 ...os-market-share/mobile-tablet/worldwide/#
                                                   monthly-201907-202007]}
 ? 
-
-Overfull \hbox (9.19075pt too wide) in paragraph at lines 453--466
-[]\TU/THSarabunNew(0)/m/n/10 เนื่องด้วยด้วยเป้าหมายของโครงการที่่ต้องการพัฒนาแอ
-ปพลิเคชันให้สามารถใช้งานได้ในหลายแพลตฟอร์ม โดยปัจจุบันระบบ
- []
-
-
-Overfull \hbox (1.50334pt too wide) in paragraph at lines 453--466
-\TU/THSarabunNew(0)/m/n/10 ปฎิบัติการแอนดรอยด์และระบบปฎิบัติการไอโอเอสเป็นระบบป
-ฎิบัติการที่ผู้คนใช้งานมากที่สุด โดยทั้งสองระบบปฎิบัติการครอบครองส่วน
- []
-
-
-Overfull \hbox (7.18591pt too wide) in paragraph at lines 453--466
-\TU/THSarabunNew(0)/m/n/10 แบ่งทางตลาดมากกว่า 98% สำหรับโทรศัพท์มือถือและแท็ปเล
-็ต จากสถิติระบบปฎิบัติการไอโอเอสและระบบปฎิบัติการแอนดรอยด์มีจำนวน
- []
-
-
-Overfull \hbox (23.59402pt too wide) in paragraph at lines 453--466
-\TU/THSarabunNew(0)/m/n/10 Application สามารถทำงานได้ตามเป้าหมายของโครงการมากกว
-่าเพราะการเป็นรูปแบบแอปพลิเคชันทำให้สามารถใช้หน้าจอสัมผัสผ่านโทรศัพท์
- []
-
-[10]
-Overfull \hbox (5.8329pt too wide) in paragraph at lines 469--472
-[]\TU/THSarabunNew(0)/m/n/10 React Native คือ เฟรมเวิร์คที่พัฒนาด้วยภาษา JavaSc
-ript สำหรับการพัฒนาแอปพลิเคชันสำหรับระบบปฎิบัติการไอโอเอส
- []
-
-
-Overfull \hbox (17.39482pt too wide) in paragraph at lines 469--472
-\TU/THSarabunNew(0)/m/n/10 พัฒนาแค่ครั้งเดียวแต่สามารถใช้งานได้ทั้งระบบปฎิบัติก
-ารไอโอเอสและระบบปฎิบัติการแอนดรอยด์ ด้วยการจัดการของ JavaScript ให้สามารถ
- []
-
 [11]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 478.
+(hyperref)                removing `\@ifnextchar' on input line 506.
 
+[12]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 489.
+(hyperref)                removing `\@ifnextchar' on input line 517.
 
 File: ./dyslexia.jpg Graphic file (type bmp)
 <./dyslexia.jpg>
-[12]
 ! Misplaced alignment tab character &.
-l.504  Arvanitopoulos &
+l.532  Arvanitopoulos &
                         Susstrunk’s seam carving แล้วจึงนำภาพแต่ละบรรทัดไปแบ...
 
 ? 
-
-Overfull \hbox (8.47737pt too wide) in paragraph at lines 502--506
-[]\TU/THSarabunNew(0)/m/n/10 ในส่วนของการประมวลผลภาพนั้น วรรณกรรมนี้ได้ทำการนำภ
-าพลายมือมาแบ่งเป็นบรรทัด หลังจากนั้นจึงได้นำแต่ละบรรทัด
- []
-
-
-Overfull \hbox (0.82681pt too wide) in paragraph at lines 513--518
-[]\TU/THSarabunNew(0)/m/n/10 เป็นส่วนที่ให้โมเดลนั้นได้ทำการระบุว่าข้อมูลที่ป้อ
-นเข้ามาเป็นโรค dyslexia หรือไม่ โดยตัวโมเดลนั้นอยู่ในรูปแบบของ โครง
- []
-
-
-Overfull \hbox (9.6951pt too wide) in paragraph at lines 519--524
-[]\TU/THSarabunNew(0)/m/n/10 วรรณกรรมนี้ เป็นวรรณกรรมที่ดีและมีคล้ายกับว่ามีข้อ
-เสนอแนะว่าไม่ควรใช้อะไรบ้าง รวมถึงช่วยเรื่องการคิดระบบการทำงาน
- []
-
-[13]
-
-! LaTeX Error: Float(s) lost.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.534 \chapter
-              {วิธีการดำเนินงาน}
-? 
+[13] [14]
 บทที่ 3.
-! Undefined control sequence.
-\MakeUppercase ...ppercaseUnsupportedInPdfStrings 
-                                                  
-l.534 \chapter{วิธีการดำเนินงาน}
-                                
-? 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 534.
-
-
-Overfull \hbox (13.71716pt too wide) in paragraph at lines 535--536
-[]\TU/THSarabunNew(0)/m/n/10 ในส่วนของวิธีการดำเนินงานจะกล่าวถึงขั้นตอนการวางแผ
-นงานและระบบงานต่างๆของแอปพลิเคชัน LDSpot โดยจะประกอบ
- []
+(hyperref)                removed on input line 562.
 
 File: ./system.jpg Graphic file (type bmp)
 <./system.jpg>
-[14
+[15
 
 ]
 File: ./processflowbefore.jpg Graphic file (type bmp)
 <./processflowbefore.jpg>
 
-Overfull \hbox (22.76216pt too wide) in paragraph at lines 557--558
+Overfull \hbox (22.76216pt too wide) in paragraph at lines 588--589
  [][] 
  []
 
 File: ./processflowafter.jpg Graphic file (type bmp)
 <./processflowafter.jpg>
-
-Overfull \hbox (22.76216pt too wide) in paragraph at lines 563--564
- [][] 
- []
-
-[15]
+[16]
 File: ./usecase.jpg Graphic file (type bmp)
 <./usecase.jpg>
 
-Overfull \hbox (27.4226pt too wide) in paragraph at lines 571--572
+Overfull \hbox (7.92265pt too wide) in paragraph at lines 615--616
  [][] 
- []
-
-
-Overfull \hbox (6.71849pt too wide) in paragraph at lines 574--577
-\TU/THSarabunNew(0)/m/n/10 อักษร สระ และสะกดคำ จนเสร็จสมบูรณ์จากนั้น ก็วิเคราะห
-์ออกมาจากคำตอบที่เด็กได้ตอบระหว่างเกมส์ เพื่อให้ได้ผลลัพท์รวมถึง ส่งผลลัพธ์
- []
-
-
-Overfull \hbox (2.92427pt too wide) in paragraph at lines 582--583
-[]\TU/THSarabunNew(0)/m/n/10 หลังจากนั้นภาพแบบทดสอบที่ผู้ใช้ได้ทำจะถูกส่งเข้าไป
-ภายในระบบ LDSpot เพื่อทำการปรับปรุงคุณภาพของรูปภาพได้แก่การปรับ
  []
 
 
@@ -1398,317 +1501,514 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.587 \end{itemize}
+l.634 \end{itemize}
                    
 ? 
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.587 \end{itemize}
+l.634 \end{itemize}
                    
 ? 
-[16]
+[17]
 File: ./fcProcessLDsenior.jpeg Graphic file (type bmp)
 <./fcProcessLDsenior.jpeg>
- [17]
-Overfull \hbox (10.74057pt too wide) in paragraph at lines 597--605
-[]\TU/THSarabunNew(0)/m/n/10 ในส่วนของแอปพลิเคชันทำแบบทดสอบนั้นเพื่อที่จะได้มาซ
-ึ่งภาพแบบทดสอบเราจึงออกแบบแอปพลิเคชันส์ในรูปแบบของเกม
- []
-
+ [18]
 File: ./imageprocess.jpg Graphic file (type bmp)
 <./imageprocess.jpg>
-
-Overfull \hbox (7.82549pt too wide) in paragraph at lines 607--623
-[]\TU/THSarabunNew(0)/m/n/10 ในส่วนนี้นั้นเราจะนำภาพแบบทดสอบที่ได้จากแอปพลิเคชั
-นมาปรับปรุงคุณภาพของภาพเพื่อให้เหมาะสมแก่การนำไปวินิจฉัย
- []
-
 File: ./imagesegment3.jpg Graphic file (type bmp)
 <./imagesegment3.jpg>
-
-Overfull \hbox (5.77141pt too wide) in paragraph at lines 626--641
-[]\TU/THSarabunNew(0)/m/n/10 ในส่วนนี้เราจะทำการสร้าง contour ขึ้นมาจากภาพที่ได
-้ทำการปรับสีขาวดำแล้ว โดยเราจะนำ contour นั้นไปสร้าง bound-
- []
-
-
-Overfull \hbox (2.00763pt too wide) in paragraph at lines 626--641
-\TU/THSarabunNew(0)/m/n/10 ing box เพื่อครอบแต่ละตัวอักษรให้แยกออกจากกัน เนื่อง
-จากเราต้องการภาพตัวอักษรที่อยู่เดี่ยวๆ ไปใช้ในการวินิจฉัยโรคบกพร่องทางการ
- []
-
-[18]
+ [19]
 File: ./imagepredict3.jpg Graphic file (type bmp)
 <./imagepredict3.jpg>
-
-Overfull \hbox (6.66927pt too wide) in paragraph at lines 644--659
-[]\TU/THSarabunNew(0)/m/n/10 เมื่อเราได้ภาพตัวอักษรเดี่ยวๆจากส่วนการแยกภาพแล้ว 
-เราจะนำภาพตัวอักษรเดี่ยวๆนั้นไปโยนเข้าโมเดลที่เราได้ทำการสร้าง
- []
-
-
-Overfull \hbox (0.3963pt too wide) in paragraph at lines 644--659
-\TU/THSarabunNew(0)/m/n/10 ไว้ เพื่อให้โมเดลวินิจฉัยโรคบกพร่องทางการเรียนรู้ แล
-้วนำผลลัพธ์ส่งกลับไปในฐานข้อมูลเพื่อให้แอปพลิเคชันสามารถเรียกข้อมูลไปแสดงได้
- []
-
-File: ./ocrบท3.jpg Graphic file (type bmp)
-<./ocrบท3.jpg>
-
-Overfull \hbox (0.9981pt too wide) in paragraph at lines 660--674
-[]\TU/THSarabunNew(0)/m/n/10 กรณีเฉพาะสำหรับคำสะกดเราจะนำภาพที่เด็กได้ทำการเขีย
-นมาเข้า OCR เพื่อหาว่าการเรียงของตัวอักษรที่เด็กเขียนตรงกับ
- []
-
-[19]
+ [20]
 File: ./conceptual.jpg Graphic file (type bmp)
 <./conceptual.jpg>
-
-Overfull \hbox (2.1616pt too wide) in paragraph at lines 688--689
-[]\TU/THSarabunNew(0)/m/n/10 ผู้ใช้สามารถดูผลลัพธ์ย้อนหลังได้โดยกดดูผลลัพธ์ภายใ
-นแอปพลิเคชันหลังจากนั้น แอปพลิเคชันจะทำการติดต่อกับฐานข้อมูลเพื่อดึง
- []
-
-[20]
+ [21]
 File: ./database.jpg Graphic file (type bmp)
 <./database.jpg>
- [21
+ [22
 
 ]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.744       is_
+               student & Boolean & ระบุสถานะนักเรียน (1,0) & No \\ \hline
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.744       is_student &
+                         Boolean & ระบุสถานะนักเรียน (1,0) & No \\ \hline
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.760         word_
+                   type & int & ประเภทของคำสะกดในแบบทดสอบ & No \\ \hline
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.760         word_type &
+                          int & ประเภทของคำสะกดในแบบทดสอบ & No \\ \hline
+? 
+[23
+
+]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.812             word_
+                       type & int & ประเภทของคำสะกด &No \\ \hline
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.812             word_type &
+                              int & ประเภทของคำสะกด &No \\ \hline
+? 
+[24]
 File: ./activitytest.jpg Graphic file (type bmp)
 <./activitytest.jpg>
-
-Overfull \hbox (20.35336pt too wide) in paragraph at lines 705--713
-[]\TU/THSarabunNew(0)/m/n/10 ทำแบบทดสอบ Sequence diagram นี้อธิบายขั้นตอนการทำแ
-บบทดสอบโดยในขั้นต้นผู้ทดสอบจะต้องเข้าสู่ระบบผ่านทางแอปพลิเคชัน
- []
-
-
-Overfull \hbox (4.52332pt too wide) in paragraph at lines 705--713
-\TU/THSarabunNew(0)/m/n/10 จากนั้นกดเริ่มทำแบบทดสอบทุกครั้งที่มีการเขียนตัวอักษ
-ร สระ หรือคำสะกดลงไปแล้วส่งคำตอบ ภาพจะถูกส่งไปที่เซิฟเวอร์ผ่านทาง
- []
-
-
-Overfull \hbox (0.41512pt too wide) in paragraph at lines 705--713
-\TU/THSarabunNew(0)/m/n/10 Django และนำภาพนั้นไปเข้าสู่โมเดลทำนายว่าภาพนั้นเขีย
-นถูกผิด หรือกลับด้านหรือไม่ จากนั้นนำผลลัพธ์ไปเก็บในฐานข้อมูล เพื่อ
- []
-
-
-Overfull \hbox (3.51468pt too wide) in paragraph at lines 705--713
-\TU/THSarabunNew(0)/m/n/10 ที่ท้ายที่สุดหลังจบแบบทดสอบแล้ว จะสามารถนำผลลัพธ์มาส
-รุปดูได้ว่า มีการเขียนถูกผิดกลับด้านกี่ตัวและมีโอกาสเป็นโรคบกพร่อง
- []
-
-[22
-
-]
-Underfull \hbox (badness 1616) in paragraph at lines 727--728
-[]\TU/THSarabunNew(0)/m/n/10 ระบบรับภาพตัวอักษร สระ และคำสะกดของผู้รับการทดสอบไ
-ปประมวลผลหลัง
- []
-
-[23]
+ [25] [26]
 File: ./activityresult.jpg Graphic file (type bmp)
 <./activityresult.jpg>
-
-Overfull \hbox (5.88858pt too wide) in paragraph at lines 736--744
-[]\TU/THSarabunNew(0)/m/n/10 ดูผลลัพธ์การทดสอบ Sequence diagram นี้อธิบายขั้นตอ
-นการดูผลลัพธ์การทดสอบของผู้ทดสอบโดยจะต้องทำการเข้าสู่ระบบผ่าน
+ [27]
+File: ./activityresult2.jpg Graphic file (type bmp)
+<./activityresult2.jpg>
+ [28]
+Overfull \hbox (18.3713pt too wide) in paragraph at lines 873--890
+ [][] 
  []
 
-
-Overfull \hbox (0.94397pt too wide) in paragraph at lines 736--744
-\TU/THSarabunNew(0)/m/n/10 ทางแอปพลิเคชันจากนั้นเข้าส่วนของการดูผลลัพธ์ หลังจาก
-นั้นแอปพลิเคชันจะทำการไปเรียกข้อมูลจากฐานข้อมูลโดยผ่าน Django
- []
-
-
-Overfull \hbox (30.62376pt too wide) in paragraph at lines 736--744
-\TU/THSarabunNew(0)/m/n/10 แล้วนำรายชื่อผลลัพธ์มาแสดงผลผ่านทางแอปพลิเคชัน จากนั
-้นผู้ทดสอบจะทำการเลือกแบบทดสอบที่ต้องการดูผลลัพธ์ โดยตัวแอปพลิเคชัน
- []
-
-[24] [25]
+[29]
 File: ./activitystat.jpg Graphic file (type bmp)
 <./activitystat.jpg>
-
-Overfull \hbox (0.3044pt too wide) in paragraph at lines 765--773
-[]\TU/THSarabunNew(0)/m/n/10 ดูสถิติรวมของแอปพลิเคชัน Sequence diagram นี้อธิบา
-ยขั้นตอนการดูสถิติของแอปพลิเคชันโดยผู้ทดสอบจะต้องเข้าสู่ระบบผ่าน
+ [30] [31]
+File: ./activitylogin.jpg Graphic file (type bmp)
+<./activitylogin.jpg>
+ [32] [33]
+File: ./activityedit.jpg Graphic file (type bmp)
+<./activityedit.jpg>
+ [34] [35] [36]
+File: ./activityregisterchildren.jpg Graphic file (type bmp)
+<./activityregisterchildren.jpg>
+ [37]
+File: ./activityregisterperson.jpg Graphic file (type bmp)
+<./activityregisterperson.jpg>
+ [38]
+Overfull \hbox (18.3713pt too wide) in paragraph at lines 1006--1024
+ [][] 
  []
 
-[26] [27]
+[39]
+File: ./convalphabetmodel.png Graphic file (type bmp)
+<./convalphabetmodel.png>
+File: ./convvowelmodel.png Graphic file (type bmp)
+<./convvowelmodel.png>
+ [40]
+File: ./alphabetmodel.png Graphic file (type bmp)
+<./alphabetmodel.png>
+File: ./vowelmodel.png Graphic file (type bmp)
+<./vowelmodel.png>
+ [41]
 File: ./login.jpg Graphic file (type bmp)
 <./login.jpg>
 File: ./home.jpg Graphic file (type bmp)
 <./home.jpg>
- [28]
+ [42]
 File: ./stage1.jpg Graphic file (type bmp)
 <./stage1.jpg>
 File: ./stage2.jpg Graphic file (type bmp)
 <./stage2.jpg>
- [29]
+ [43]
 File: ./stage3.jpg Graphic file (type bmp)
 <./stage3.jpg>
 File: ./stage1inputSkip.jpg Graphic file (type bmp)
 <./stage1inputSkip.jpg>
- [30]
+ [44]
 File: ./stage1input.jpg Graphic file (type bmp)
 <./stage1input.jpg>
 File: ./stage1input2.jpg Graphic file (type bmp)
 <./stage1input2.jpg>
- [31]
+ [45]
 File: ./endGame.jpg Graphic file (type bmp)
 <./endGame.jpg>
 File: ./result.jpg Graphic file (type bmp)
 <./result.jpg>
- [32]
+ [46]
 File: ./stat.jpg Graphic file (type bmp)
 <./stat.jpg>
- [33]
+ [47]
 File: ./พยัญชนะ.png Graphic file (type bmp)
 <./พยัญชนะ.png>
-
-Overfull \hbox (18.37889pt too wide) in paragraph at lines 882--892
-\TU/THSarabunNew(0)/m/n/10 สะกด จากนักเรียนระดับชั้นประถมศึกษาตั้งแต่ประถมศึกษา
-ปีที่หนึ่งถึงประถมศึกษาปีที่สาม โดยคาดว่าจะมีเด็กเข้าร่วมทำแบบทดสอบประมาณ
- []
-
-[34]
+ [48]
 File: ./สระ.png Graphic file (type bmp)
 <./สระ.png>
 File: ./คำสะกด.png Graphic file (type bmp)
 <./คำสะกด.png>
- [35]
-Overfull \hbox (20.08853pt too wide) in paragraph at lines 910--911
-[]\TU/THSarabunNew(0)/m/n/10 เราจะนำตัวแอปพลิเคชันไปวัดผลที่ หน่วยตรวจโรคจิตเวช
-เด็กและวัยรุ่น ภาควิชาจิตเวชศาสตร์ คณะแพทยศาสตร์ศิริราชพยาบาล
- []
-
-[36]
+ [49]
+File: ./พยัญชนะ.png Graphic file (type bmp)
+<./พยัญชนะ.png>
+ [50]
+File: ./สระ.png Graphic file (type bmp)
+<./สระ.png>
+File: ./คำสะกด.png Graphic file (type bmp)
+<./คำสะกด.png>
+ [51] [52]
 บทที่ 4.
-! Undefined control sequence.
-\MakeUppercase ...ppercaseUnsupportedInPdfStrings 
-                                                  
-l.926 \chapter{ผลการดำเนินงาน}
-                              
-? 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern -9.84pt
-(hyperref)                removed on input line 926.
+(hyperref)                removed on input line 1209.
 
-File: ./gamesceneหน้ารอเขียน.JPG Graphic file (type bmp)
-<./gamesceneหน้ารอเขียน.JPG>
-File: ./gamesceneหน้าต่างเขียน.JPG Graphic file (type bmp)
-<./gamesceneหน้าต่างเขียน.JPG>
-[37
+File: ./loginstep.png Graphic file (type bmp)
+<./loginstep.png>
 
-]
-File: ./gamesceneหน้าต่างเขียนแล้ว.JPG Graphic file (type bmp)
-<./gamesceneหน้าต่างเขียนแล้ว.JPG>
-File: ./gamesceneปล่อยท่า.JPG Graphic file (type bmp)
-<./gamesceneปล่อยท่า.JPG>
- [38]
-File: ./gamesceneจบฉากแรก.JPG Graphic file (type bmp)
-<./gamesceneจบฉากแรก.JPG>
-File: ./statหน้ารวม.JPG Graphic file (type bmp)
-<./statหน้ารวม.JPG>
- [39]
-File: ./statหน้าย่อย.JPG Graphic file (type bmp)
-<./statหน้าย่อย.JPG>
-File: ./statหน้ารวมดูรูป.JPG Graphic file (type bmp)
-<./statหน้ารวมดูรูป.JPG>
- [40]
-Overfull \hbox (5.15547pt too wide) in paragraph at lines 992--993
-[]\TU/THSarabunNew(0)/m/n/10 OCR ที่นำมาใช้คู่กับโมเดลทำนายตัวอักษรเพื่อที่จะวิ
-เคราะห์ว่าคำสะกดที่ผู้ทำแบบทดสอบเขียนมาถูกต้องหรือไม่ โดยในส่วน
+Overfull \hbox (22.76216pt too wide) in paragraph at lines 1216--1217
+ [][] 
  []
 
+[53
+
+]
+File: ./howtouse2.jpg Graphic file (type bmp)
+<./howtouse2.jpg>
+
+Overfull \hbox (22.76216pt too wide) in paragraph at lines 1230--1231
+ [][] 
+ []
+
+[54]
+File: ./howtouse3.jpg Graphic file (type bmp)
+<./howtouse3.jpg>
+
+Overfull \hbox (22.76216pt too wide) in paragraph at lines 1243--1244
+ [][] 
+ []
+
+[55]
+File: ./howtouse4.jpg Graphic file (type bmp)
+<./howtouse4.jpg>
+
+Overfull \hbox (22.76216pt too wide) in paragraph at lines 1256--1257
+ [][] 
+ []
+
+[56]
+File: ./teststep.png Graphic file (type bmp)
+<./teststep.png>
+
+Overfull \hbox (22.76216pt too wide) in paragraph at lines 1270--1271
+ [][] 
+ []
+
+[57]
+File: ./paginationstep2.png Graphic file (type bmp)
+<./paginationstep2.png>
+
+Overfull \hbox (22.76216pt too wide) in paragraph at lines 1282--1283
+ [][] 
+ []
+
+[58]
+File: ./resultstep.png Graphic file (type bmp)
+<./resultstep.png>
+
+Overfull \hbox (22.76216pt too wide) in paragraph at lines 1296--1297
+ [][] 
+ []
+
+[59]
+File: ./paginationstep.png Graphic file (type bmp)
+<./paginationstep.png>
+
+Overfull \hbox (22.76216pt too wide) in paragraph at lines 1309--1310
+ [][] 
+ []
+
+[60]
+File: ./graphstep.png Graphic file (type bmp)
+<./graphstep.png>
+
+Overfull \hbox (22.76216pt too wide) in paragraph at lines 1322--1323
+ [][] 
+ []
+
+[61]
+File: ./individualresultstep.png Graphic file (type bmp)
+<./individualresultstep.png>
+
+Overfull \hbox (22.76216pt too wide) in paragraph at lines 1335--1336
+ [][] 
+ []
+
+[62]
+File: ./writestep.png Graphic file (type bmp)
+<./writestep.png>
+
+Overfull \hbox (22.76216pt too wide) in paragraph at lines 1349--1350
+ [][] 
+ []
+
+[63]
+File: ./statstep.png Graphic file (type bmp)
+<./statstep.png>
+
+Overfull \hbox (22.76216pt too wide) in paragraph at lines 1364--1365
+ [][] 
+ []
+
+[64]
+File: ./childrenTest.jpg Graphic file (type bmp)
+<./childrenTest.jpg>
+ [65]
+File: ./splitAlphabet.jpg Graphic file (type bmp)
+<./splitAlphabet.jpg>
+ [66]
+File: 31.png Graphic file (type bmp)
+<31.png>
+File: 32.png Graphic file (type bmp)
+<32.png>
+ [67]
+File: 33.png Graphic file (type bmp)
+<33.png>
+ [68]
 File: ocrpython.jpg Graphic file (type bmp)
 <ocrpython.jpg>
 File: ocrpython2.jpg Graphic file (type bmp)
 <ocrpython2.jpg>
-[41]
+ [69]
 File: ocr3.jpg Graphic file (type bmp)
 <ocr3.jpg>
 File: ocrpython4.jpg Graphic file (type bmp)
 <ocrpython4.jpg>
- [42]
+ [70]
 File: ocrpython5.jpg Graphic file (type bmp)
 <ocrpython5.jpg>
-File: prepareinformation.jpg Graphic file (type bmp)
-<prepareinformation.jpg>
-
-Overfull \hbox (11.98283pt too wide) in paragraph at lines 1033--1040
-[]\TU/THSarabunNew(0)/m/n/10 มีการเตรียมระบบสำหรับตัดตัวอักษร สระ และคำสะกดภายใ
-นแบบทดสอบที่เด็กเขียนแล้วทำการแบ่งแยกออกมาเป็นประเภท
+ [71] [72]
+Overfull \hbox (21.97563pt too wide) in paragraph at lines 1513--1527
+ [][] 
  []
 
-[43]
-File: exampleimage.jpg Graphic file (type bmp)
-<exampleimage.jpg>
-
-Overfull \hbox (9.3384pt too wide) in paragraph at lines 1048--1050
-[]\TU/THSarabunNew(0)/m/n/10 ในส่วนของข้อมูลที่ผ่านการประมวลผลที่เตรียมพร้อมสำห
-รับนำไปสร้างโมเดลในการวิเคราะห์โรคบกพร่องทางการเรียนรู้ และ
+[73] [74]
+Overfull \hbox (21.09003pt too wide) in paragraph at lines 1601--1615
+ [][] 
  []
 
-
-Overfull \hbox (3.05305pt too wide) in paragraph at lines 1048--1050
-\TU/THSarabunNew(0)/m/n/10 ข้อมูลลายมือของเด็ก และต้องทำการขอใบจริยธรรมเนื่องจา
-กตัวงานวิจัยนั้นมีการใช้งานกับมนุษย์ ทำให้ต้องติดต่อกับหลายส่วนแล้วใช้เวลา
+[75] [76] [77] [78] [79] [80] [81]
+Overfull \hbox (22.88582pt too wide) in paragraph at lines 1882--1896
+ [][] 
  []
 
-(undergrad-sample-thai.bbl [44]
-! Undefined control sequence.
-\MakeUppercase ...ppercaseUnsupportedInPdfStrings 
+[82] [83] [84] [85]
+File: predict1.jpg Graphic file (type bmp)
+<predict1.jpg>
+ [86]
+File: predict2.jpg Graphic file (type bmp)
+<predict2.jpg>
+File: predict3.jpg Graphic file (type bmp)
+<predict3.jpg>
+ [87]
+File: predict4.jpg Graphic file (type bmp)
+<predict4.jpg>
+File: predict5.jpg Graphic file (type bmp)
+<predict5.jpg>
+ [88]
+File: predict6.jpg Graphic file (type bmp)
+<predict6.jpg>
+File: predict7.jpg Graphic file (type bmp)
+<predict7.jpg>
+ [89]
+File: predict8.jpg Graphic file (type bmp)
+<predict8.jpg>
+File: predict9.jpg Graphic file (type bmp)
+<predict9.jpg>
+ [90]
+
+! LaTeX Error: Environment tablenotes undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
                                                   
-l.1 \begin{thebibliography}{10}
-                               
+l.2129   \begin{tablenotes}
+                           
 ? 
+LaTeX Font Info:    Font shape `TU/THSarabunNew(0)/m/n' will be
+(Font)              scaled to size 11.06996pt on input line 2130.
+
+Overfull \hbox (36.84673pt too wide) in paragraph at lines 2112--2131
+ [][] 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2131     \item ข
+                  ้อแนะนำ
+? 
+
+Underfull \hbox (badness 10000) detected at line 2131
+[][]
+ []
+
+
+! LaTeX Error: \begin{table} on input line 2110 ended by \end{tablenotes}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2132   \end{tablenotes}
+                         
+? 
+
+! LaTeX Error: Environment tablenotes undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2146   \begin{tablenotes}
+                           
+? 
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2148     \item ข
+                  ้อแนะนำ
+? 
+
+Underfull \hbox (badness 10000) detected at line 2148
+[][]
+ []
+
+
+! LaTeX Error: \begin{table} on input line 2138 ended by \end{tablenotes}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2149   \end{tablenotes}
+                         
+? 
+[91]
+บทที่ 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern -9.84pt
+(hyperref)                removed on input line 2153.
+
+[92
+
+] (undergrad-sample-thai.bbl [93]
 ! You can't use `macro parameter character #' in horizontal mode.
 l.20 .../cs231n.github.io/convolutional-networks/#
                                                   add.
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--33
-\TU/THSarabunNew(0)/m/n/10 machinelearningmastery.com/how-to-use-transfer-learn
-ing-when-developing-convolutional-neural-network-
+Underfull \hbox (badness 5578) in paragraph at lines 29--33
+[]\TU/THSarabunNew(0)/m/n/10 J.Brownlee,  ``Transfer Learning in Keras with Com
+puter Vision Models,''  [สื่อ ออนไลน์] วัน ที่
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 64--69
-\TU/THSarabunNew(0)/m/n/10 (Part 1),”  [สื่อออนไลน์] วันที่ 8/27/2020 https://w
-ww.analyticsvidhya.com/blog/2019/04/introduction-image-
+Underfull \hbox (badness 2837) in paragraph at lines 29--33
+\TU/THSarabunNew(0)/m/n/10 8/27/2020 https:// machinelearningmastery.com/ how-t
+o-use-transfer-learning-when-developing-convolutional-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 71--75
-[]\TU/THSarabunNew(0)/m/n/10 Indiana University,  “Detecting Dyslexia Using Neu
-ral Networks,”  [สื่อออนไลน์] วันที่ 8/27/2020 http://
+Underfull \hbox (badness 1062) in paragraph at lines 71--75
+[]\TU/THSarabunNew(0)/m/n/10 Indiana University,  ``Detecting Dyslexia Using Ne
+ural Networks,''  [สื่อ ออนไลน์] วัน ที่ 8/27/2020 http://
  []
 
-) [45
+)
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {thai/script}  =>  {Thai}
+>  {thai/lcscript}  =>  {thai}
+>  {thai/scripttag}  =>  {thai}
+>  {thai/language}  =>  {Thai}
+>  {thai/langtag}  =>  {THA}
+>  {thai/bcp47}  =>  {th}
+>  {thai/hyphennames}  =>  {nohyphenation}
+>  {thai/direction}  =>  {LR}
+>  {thai/hyphenmins}  =>  {2,3}
+>  {thai/frenchspacing}  =>  {false}
+>  {thai/indentfirst}  =>  {false}
+>  {thai/fontsetup}  =>  {true}
+>  {thai/envname}  =>  {thai}
+>  {thai/babelname}  =>  {thai}
+>  {thai/localnumeral}  =>  {thainumerals}
+>  {thai/Localnumeral}  =>  {thainumerals}
+>  {english/script}  =>  {latin}
+>  {english/lcscript}  =>  {latin}
+>  {english/scripttag}  =>  {}
+>  {english/language}  =>  {English}
+>  {english/langtag}  =>  {ENG}
+>  {english/bcp47}  =>  {en-US}
+>  {english/hyphennames}  =>  {english,american,usenglish,USenglish}
+>  {english/direction}  =>  {LR}
+>  {english/hyphenmins}  =>  {2,3}
+>  {english/frenchspacing}  =>  {false}
+>  {english/indentfirst}  =>  {false}
+>  {english/fontsetup}  =>  {true}
+>  {english/envname}  =>  {english}
+>  {english/babelname}  =>  {american}
+>  {english/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
+ [94
 
-] (undergrad-sample-thai.aux)
+] (undergrad-sample-thai.aux
+LaTeX Info: Redefining \rmfamily on input line 19.
+LaTeX Info: Redefining \sffamily on input line 19.
+LaTeX Info: Redefining \ttfamily on input line 19.
+\thai@year=\count318
+)
 Package rerunfilecheck Info: File `undergrad-sample-thai.out' has not changed.
-(rerunfilecheck)             Checksum: 9942E825F0C68BC564B7E7E03EF8BF18;11818.
+(rerunfilecheck)             Checksum: F0F596219817294D341A6E42A12F5052;13861.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 16167 strings out of 412197
- 283599 string characters out of 2853958
- 651484 words of memory out of 3000000
- 35405 multiletter control sequences out of 15000+200000
- 537761 words of font info for 78 fonts, out of 3000000 for 9000
+ 18442 strings out of 412197
+ 329383 string characters out of 2853958
+ 720731 words of memory out of 3000000
+ 37630 multiletter control sequences out of 15000+200000
+ 537737 words of font info for 75 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 105i,10n,112p,1788b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 105i,13n,115p,1848b,516s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on undergrad-sample-thai.pdf (54 pages).
+Output written on undergrad-sample-thai.pdf (105 pages).

@@ -1,58 +1,88 @@
+\selectlanguage *{thai}
 \addvspace {0em}
-\contentsline {figure}{\numberline {1.1}{\ignorespaces ภาพตารางเวลาการทำงานภาคการศึกษาที่ 1}}{3}{figure.1.1}%
-\contentsline {figure}{\numberline {1.2}{\ignorespaces ภาพตารางเวลาการทำงานภาคการศึกษาที่ 2}}{4}{figure.1.2}%
+\contentsline {figure}{\numberline {1.1}{\ignorespaces ภาพตารางเวลาการทำงานภาคการศึกษาที่ 1\relax }}{3}{figure.caption.1}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces ภาพตารางเวลาการทำงานภาคการศึกษาที่ 2\relax }}{4}{figure.caption.2}%
 \addvspace {0em}
-\contentsline {figure}{\numberline {2.1}{\ignorespaces ตัวอย่าง layer ของ การเรียนรู้เชิงลึกของคอมพิวเตอร์}}{6}{figure.2.1}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces แสดงตัวอย่างโครงข่าย CNN ที่ประกอบด้วย 1. convolutional layer 2. pooling layer 3. fully connected layer }}{7}{figure.2.2}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces ตัวอย่างการทำ Max pooling และ mean pooling}}{7}{figure.2.3}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces ภาพอธิบายตัวอย่างของ Transfer Learning}}{8}{figure.2.4}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces ภาพตัวอย่างกราฟของ sigmoid function}}{10}{figure.2.5}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces ภาพตัวอย่างกราฟของ ReLU function}}{10}{figure.2.6}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces ภาพตัวอย่างการทำ image segmentation บนภาพ}}{11}{figure.2.7}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces ภาพตัวอย่างขั้นตอนการแปลงเอกสารมาอยู่ในรูปแบบข้อมูลด้วยกระบวนการ OCR}}{11}{figure.2.8}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces ภาพตัวอย่างการทำงานของ Blob coloring}}{12}{figure.2.9}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces ตัวอย่าง layer ของ การเรียนรู้เชิงลึกของคอมพิวเตอร์\relax }}{6}{figure.caption.3}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces แสดงตัวอย่างโครงข่าย CNN ที่ประกอบด้วย 1. convolutional layer 2. pooling layer 3. fully connected layer \relax }}{7}{figure.caption.4}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces ตัวอย่างการทำ Max pooling และ mean pooling\relax }}{7}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces ภาพอธิบายตัวอย่างของ Transfer Learning\relax }}{8}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces ภาพตัวอย่างกราฟของ sigmoid function\relax }}{9}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces ภาพตัวอย่างกราฟของ ReLU function\relax }}{9}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces ภาพตัวอย่างการทำ image segmentation บนภาพ\relax }}{10}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces ภาพตัวอย่างขั้นตอนการแปลงเอกสารมาอยู่ในรูปแบบข้อมูลด้วยกระบวนการ OCR\relax }}{11}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces ภาพตัวอย่างการทำงานของ Blob coloring\relax }}{11}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces ส่วนแบ่งการตลาดระบบปฏิบัติการมือถือและแท็บเล็ตทั่วโลก\relax }}{12}{figure.caption.12}%
 \addvspace {0em}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces ภาพ System Architecture ของ LDSpot}}{14}{figure.3.1}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces ภาพขั้นการทำงานของบุคลากรทางการแพทย์ก่อนใช้แอปพลิเคชัน LDSpot}}{15}{figure.3.2}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces ภาพขั้นตอนการทำงานของบุคลากรทางการแพทย์หลังใช้แอปพลิเคชัน LDSpot}}{15}{figure.3.3}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces ภาพ Use Case Diagram}}{16}{figure.3.4}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces ภาพ Activity diagram การดูข้อมูลสถิติในแอปพลิเคชัน}}{17}{figure.3.5}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการประมวลผลภาพ}}{18}{figure.3.6}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการแยกภาพ}}{19}{figure.3.7}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย}}{19}{figure.3.8}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการหาลำดับตัวอักษรเพื่อทำนายคำสะกด}}{20}{figure.3.9}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces ภาพการสื่อสารระหว่างทางฝั่ง Frontend และ Backend}}{20}{figure.3.10}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces ภาพ Database ER diagram}}{21}{figure.3.11}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces ภาพ Sequence diagram การทำแบบทดสอบ}}{22}{figure.3.12}%
-\contentsline {figure}{\numberline {3.13}{\ignorespaces ภาพ Sequence diagram การดูผลลัพธ์การทดสอบ}}{24}{figure.3.13}%
-\contentsline {figure}{\numberline {3.14}{\ignorespaces ภาพ Sequence diagram การดูข้อมูลสถิติในแอปพลิเคชัน}}{26}{figure.3.14}%
-\contentsline {figure}{\numberline {3.15}{\ignorespaces ภาพการออกแบบหน้าเข้าสู่ระบบ}}{28}{figure.3.15}%
-\contentsline {figure}{\numberline {3.16}{\ignorespaces ภาพการออกแบบหน้ากรอกข้อมูลสำหรับเริ่มทำแบบทดสอบ}}{28}{figure.3.16}%
-\contentsline {figure}{\numberline {3.17}{\ignorespaces ภาพการออกแบบหน้าการทำแบบทดสอบด่านแรก}}{29}{figure.3.17}%
-\contentsline {figure}{\numberline {3.18}{\ignorespaces ภาพการออกแบบหน้าการทำแบบทดสอบด่านสอง}}{29}{figure.3.18}%
-\contentsline {figure}{\numberline {3.19}{\ignorespaces ภาพการออกแบบหน้าการทำแบบทดสอบด่านสาม}}{30}{figure.3.19}%
-\contentsline {figure}{\numberline {3.20}{\ignorespaces ภาพการออกแบบหน้าการกดข้ามการเขียนตัวอักษร สระ และคำสะกด}}{30}{figure.3.20}%
-\contentsline {figure}{\numberline {3.21}{\ignorespaces ภาพการออกแบบหน้าเขียนตัวอักษร สระ และคำสะกด}}{31}{figure.3.21}%
-\contentsline {figure}{\numberline {3.22}{\ignorespaces ภาพการออกแบบหน้าเขียนตัวอักษร สระ และคำสะกด}}{31}{figure.3.22}%
-\contentsline {figure}{\numberline {3.23}{\ignorespaces ภาพการออกแบบหน้าจบการทดสอบ}}{32}{figure.3.23}%
-\contentsline {figure}{\numberline {3.24}{\ignorespaces ภาพออกแบบหน้าดูผลลัพธ์การทดสอบ}}{32}{figure.3.24}%
-\contentsline {figure}{\numberline {3.25}{\ignorespaces ภาพการออกแบบหน้าดูสถิติภายในแอปพลิเคชัน}}{33}{figure.3.25}%
-\contentsline {figure}{\numberline {3.26}{\ignorespaces ภาพแบบทดสอบที่ใช้เก็บลายมือตัวอักษรเด็ก}}{34}{figure.3.26}%
-\contentsline {figure}{\numberline {3.27}{\ignorespaces ภาพแบบทดสอบที่ใช้เก็บลายมือสระเด็ก}}{35}{figure.3.27}%
-\contentsline {figure}{\numberline {3.28}{\ignorespaces ภาพแบบทดสอบที่ใช้เก็บลายมือคำสะกดเด็ก}}{35}{figure.3.28}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces ภาพ System Architecture ของ LDSpot\relax }}{15}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces ภาพขั้นการทำงานของบุคลากรทางการแพทย์ก่อนใช้แอปพลิเคชัน LDSpot\relax }}{16}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces ภาพขั้นตอนการทำงานของบุคลากรทางการแพทย์หลังใช้แอปพลิเคชัน LDSpot\relax }}{16}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces ภาพ Use Case Diagram\relax }}{17}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces ภาพ Activity diagram การดูข้อมูลสถิติในแอปพลิเคชัน\relax }}{18}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการประมวลผลภาพ\relax }}{19}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการแยกภาพ\relax }}{20}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces แผนภาพแสดงข้อมูลขาเข้าและออกของการวินิจฉัย\relax }}{20}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces ภาพการสื่อสารระหว่างทางฝั่ง Frontend และ Backend\relax }}{21}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces ภาพ Database ER diagram\relax }}{22}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces ภาพ Sequence diagram การทำแบบทดสอบ\relax }}{25}{figure.caption.33}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces ภาพ Sequence diagram การดูผลลัพธ์การทดสอบ\relax }}{27}{figure.caption.35}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces ภาพ Sequence diagram การดูผลลัพธ์รายบุคคล\relax }}{28}{figure.caption.36}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces ภาพ Sequence diagram การดูข้อมูลสถิติในแอปพลิเคชัน\relax }}{30}{figure.caption.38}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces ภาพ Sequence diagram การเข้าสู่ระบบ\relax }}{32}{figure.caption.40}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces ภาพ Sequence diagram การแก้ไขผลลัพธ์รายบุคคล\relax }}{34}{figure.caption.42}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces ภาพ Sequence diagram การสมัครสมาชิกแบบนักเรียน\relax }}{37}{figure.caption.44}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces ภาพ Sequence diagram การสมัครสมาชิกแบบบุคลากรทางการแพทย์\relax }}{38}{figure.caption.45}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Convolutional Layer สำหรับโมเดลตัวอักษร\relax }}{40}{figure.caption.47}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Convolutional Layer สำหรับโมเดลสระ\relax }}{40}{figure.caption.48}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces โมเดลสำหรับตัวอักษร\relax }}{41}{figure.caption.49}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces โมเดลสำหรับตัวอักษร\relax }}{41}{figure.caption.50}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces ภาพการออกแบบหน้าเข้าสู่ระบบ\relax }}{42}{figure.caption.51}%
+\contentsline {figure}{\numberline {3.24}{\ignorespaces ภาพการออกแบบหน้ากรอกข้อมูลสำหรับเริ่มทำแบบทดสอบ\relax }}{42}{figure.caption.52}%
+\contentsline {figure}{\numberline {3.25}{\ignorespaces ภาพการออกแบบหน้าการทำแบบทดสอบด่านแรก\relax }}{43}{figure.caption.53}%
+\contentsline {figure}{\numberline {3.26}{\ignorespaces ภาพการออกแบบหน้าการทำแบบทดสอบด่านสอง\relax }}{43}{figure.caption.54}%
+\contentsline {figure}{\numberline {3.27}{\ignorespaces ภาพการออกแบบหน้าการทำแบบทดสอบด่านสาม\relax }}{44}{figure.caption.55}%
+\contentsline {figure}{\numberline {3.28}{\ignorespaces ภาพการออกแบบหน้าการกดข้ามการเขียนตัวอักษร สระ และคำสะกด\relax }}{44}{figure.caption.56}%
+\contentsline {figure}{\numberline {3.29}{\ignorespaces ภาพการออกแบบหน้าเขียนตัวอักษร สระ และคำสะกด\relax }}{45}{figure.caption.57}%
+\contentsline {figure}{\numberline {3.30}{\ignorespaces ภาพการออกแบบหน้าเขียนตัวอักษร สระ และคำสะกด\relax }}{45}{figure.caption.58}%
+\contentsline {figure}{\numberline {3.31}{\ignorespaces ภาพการออกแบบหน้าจบการทดสอบ\relax }}{46}{figure.caption.59}%
+\contentsline {figure}{\numberline {3.32}{\ignorespaces ภาพออกแบบหน้าดูผลลัพธ์การทดสอบ\relax }}{46}{figure.caption.60}%
+\contentsline {figure}{\numberline {3.33}{\ignorespaces ภาพการออกแบบหน้าดูสถิติภายในแอปพลิเคชัน\relax }}{47}{figure.caption.61}%
+\contentsline {figure}{\numberline {3.34}{\ignorespaces ภาพแบบทดสอบที่ใช้เก็บลายมือตัวอักษรเด็ก\relax }}{48}{figure.caption.62}%
+\contentsline {figure}{\numberline {3.35}{\ignorespaces ภาพแบบทดสอบที่ใช้เก็บลายมือสระเด็ก\relax }}{49}{figure.caption.63}%
+\contentsline {figure}{\numberline {3.36}{\ignorespaces ภาพแบบทดสอบที่ใช้เก็บลายมือคำสะกดเด็ก\relax }}{49}{figure.caption.64}%
+\contentsline {figure}{\numberline {3.37}{\ignorespaces ภาพแบบทดสอบที่ใช้เก็บลายมือตัวอักษรเด็ก\relax }}{50}{figure.caption.65}%
+\contentsline {figure}{\numberline {3.38}{\ignorespaces ภาพแบบทดสอบที่ใช้เก็บลายมือสระเด็ก\relax }}{51}{figure.caption.66}%
+\contentsline {figure}{\numberline {3.39}{\ignorespaces ภาพแบบทดสอบที่ใช้เก็บลายมือคำสะกดเด็ก\relax }}{51}{figure.caption.67}%
 \addvspace {0em}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces ภาพหน้าจอแอปพลิเคชันแบบทดสอบ}}{37}{figure.4.1}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces ภาพหน้าจอแอปพลิเคชันแบบทดสอบสำหรับเขียน}}{37}{figure.4.2}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces ภาพหน้าจอแอปพลิเคชันแบบทดสอบสำหรับเขียน}}{38}{figure.4.3}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces ภาพหน้าจอแอปพลิเคชันการปล่อยพลัง}}{38}{figure.4.4}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces ภาพหน้าจอแอปพลิเคชันหน้าจบด่านแรก}}{39}{figure.4.5}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces ภาพหน้าจอแอปพลิเคชันดูผลลัพธ์}}{39}{figure.4.6}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces ภาพหน้าจอแอปพลิเคชันดูผลลัพธ์รายคน}}{40}{figure.4.7}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces ภาพหน้าจอแอปพลิเคชันดูผลลัพธ์การทดสอบ}}{40}{figure.4.8}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces ภาพลายมือเขียนของเด็ก}}{41}{figure.4.9}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces ภาพลายมือเขียนของเด็กที่ได้ทำการแบ่งตัวอักษรแล้ว}}{41}{figure.4.10}%
-\contentsline {figure}{\numberline {4.11}{\ignorespaces ภาพลายมือเขียนของเด็ก}}{42}{figure.4.11}%
-\contentsline {figure}{\numberline {4.12}{\ignorespaces ภาพลายมือเขียนของเด็กที่ทำการ bounding box แล้วมีมากกว่า 1 ตัวอักษร}}{42}{figure.4.12}%
-\contentsline {figure}{\numberline {4.13}{\ignorespaces ภาพหลังการทำ bounding box แล้ว}}{43}{figure.4.13}%
-\contentsline {figure}{\numberline {4.14}{\ignorespaces ภาพแบบทดสอบของเด็กที่ผ่านการทำ bounding box}}{43}{figure.4.14}%
-\contentsline {figure}{\numberline {4.15}{\ignorespaces ภาพตัวอักษรจากแบบทดสอบที่ผ่านการตัดมาเตรียมไว้ใช้สำหรับการสร้างโมเดล Convolutional Neural Network}}{44}{figure.4.15}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces วิธีการใช้งานหน้าเข้าสู่ระบบ\relax }}{53}{figure.caption.68}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces หน้าเลือกรูปแบบการสมัครสมาชิกของ LDSpot\relax }}{54}{figure.caption.69}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces หน้าสมัครสมาชิกของ LDSpot\relax }}{55}{figure.caption.70}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces หน้าสมัครสมาชิกของ LDSpot\relax }}{56}{figure.caption.71}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces หน้าหลัก (แบบทดสอบ) LDSpot\relax }}{57}{figure.caption.72}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces หน้าหลัก (ผลลัพธ์) LDSpot\relax }}{58}{figure.caption.73}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces หน้าหลัก (ผลลัพธ์รายละเอียด) LDSpot\relax }}{59}{figure.caption.74}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces หน้าหลัก (ผลลัพธ์รายบุคคล) LDSpot\relax }}{60}{figure.caption.75}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces หน้าหลัก (ผลลัพธ์รายบุคคลสถิติ) LDSpot\relax }}{61}{figure.caption.76}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces หน้าหลัก (ผลลัพธ์รายบุคคลแบบทดสอบ) LDSpot\relax }}{62}{figure.caption.77}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces หน้าแบบทดสอบ LDSpot\relax }}{63}{figure.caption.78}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces หน้าดูข้อมูลสถิติภายในแอปพลิเคชันของ LDSpot\relax }}{64}{figure.caption.79}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces ภาพตัวอย่างการเก็บข้อมูลลายมือของเด็กหลังจากาสแกนรูปภาพแล้ว\relax }}{65}{figure.caption.80}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces ภาพตัวอย่างหลังการแยกตัวอักษรและสระ\relax }}{66}{figure.caption.81}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces ภาพกระบวนการทำงานเมื่อผู้ทดสอบเขียนตัวอักษร\relax }}{67}{figure.caption.82}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces ภาพกระบวนการทำงานเมื่อผู้ทดสอบเขียนสระ\relax }}{67}{figure.caption.83}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces ภาพกระบวนการทำงานเมื่อผู้ทดสอบเขียนคำสะกด\relax }}{68}{figure.caption.84}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces ภาพลายมือเขียนของเด็ก\relax }}{69}{figure.caption.85}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces ภาพลายมือเขียนของเด็กที่ได้ทำการแบ่งตัวอักษรแล้ว\relax }}{69}{figure.caption.86}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces ภาพลายมือเขียนของเด็ก\relax }}{70}{figure.caption.87}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces ภาพลายมือเขียนของเด็กที่ทำการ bounding box แล้วมีมากกว่า 1 ตัวอักษร\relax }}{70}{figure.caption.88}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces ภาพหลังการทำ bounding box แล้ว\relax }}{71}{figure.caption.89}%
+\contentsline {figure}{\numberline {4.23}{\ignorespaces ภาพการทำนายของโมเดลตัวอักษรที่ถูก\relax }}{86}{figure.caption.118}%
+\contentsline {figure}{\numberline {4.24}{\ignorespaces ภาพการทำนายของโมเดลตัวอักษรที่ถูก\relax }}{87}{figure.caption.119}%
+\contentsline {figure}{\numberline {4.25}{\ignorespaces ภาพการทำนายของโมเดลตัวอักษรที่ถูก\relax }}{87}{figure.caption.120}%
+\contentsline {figure}{\numberline {4.26}{\ignorespaces ภาพการทำนายของโมเดลตัวอักษรที่ถูก\relax }}{88}{figure.caption.121}%
+\contentsline {figure}{\numberline {4.27}{\ignorespaces ภาพการทำนายของโมเดลตัวอักษรที่ผิด\relax }}{88}{figure.caption.122}%
+\contentsline {figure}{\numberline {4.28}{\ignorespaces ภาพการทำนายของโมเดลตัวอักษรที่ถูก\relax }}{89}{figure.caption.123}%
+\contentsline {figure}{\numberline {4.29}{\ignorespaces ภาพที่แบ่งตัวอักษรและสระถูกต้อง\relax }}{89}{figure.caption.124}%
+\contentsline {figure}{\numberline {4.30}{\ignorespaces ภาพที่แบ่งตัวอักษรและสระถูกต้อง\relax }}{90}{figure.caption.125}%
+\contentsline {figure}{\numberline {4.31}{\ignorespaces ภาพที่แบ่งตัวอักษรและสระไม่ถูกต้อง\relax }}{90}{figure.caption.126}%
+\addvspace {0em}

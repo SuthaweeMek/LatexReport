@@ -1,0 +1,102 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.11) (preloaded format=xelatex 2020.11.26)  12 JUL 2021 18:36
+entering extended mode
+**^^@
+("C:\Program Files\MiKTeX\tex/latex/tools\.tex"
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03> File ignored)
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end
+! Interruption.
+<*> 
+    \end
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> 
+     \end
+? 
+Missing character: There is no  in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no  in font nullfont!
+
+*
+Runaway argument?
+! Paragraph ended before \end  was complete.
+<to be read again> 
+                   \par 
+<*> 
+    
+? 
+
+Overfull \hbox (20.0pt too wide) detected at line 0
+[] 
+ []
+
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end
+! Interruption.
+<*> 
+    \end
+? \end
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+H for help, X to quit.
+? 
+
+*x
+
+! LaTeX Error: \begin{document} ended by \end{x}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> x
+     
+? X
+ 
+Here is how much of TeX's memory you used:
+ 16 strings out of 412197
+ 449 string characters out of 2853958
+ 277864 words of memory out of 3000000
+ 19628 multiletter control sequences out of 15000+200000
+ 535088 words of font info for 29 fonts, out of 3000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 14i,0n,15p,81b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

@@ -2,51 +2,40 @@
 \addvspace {0em}
 \addvspace {0em}
 \addvspace {0em}
-\contentsline {table}{\numberline {3.1}{\ignorespaces แสดงข้อมูลขาเข้าและขาออกของ แอปพลิเคชัน\relax }}{19}{table.caption.19}%
-\contentsline {table}{\numberline {3.2}{\ignorespaces แสดงข้อมูลขาเข้าและขาออกของส่วนการประมวลผลภาพ\relax }}{19}{table.caption.21}%
-\contentsline {table}{\numberline {3.3}{\ignorespaces แสดงข้อมูลขาเข้าและขาออกของส่วนการแยกภาพ\relax }}{19}{table.caption.23}%
-\contentsline {table}{\numberline {3.4}{\ignorespaces แสดงข้อมูลขาเข้าและขาออกของส่วนการวินิจฉัย\relax }}{20}{table.caption.25}%
-\contentsline {table}{\numberline {3.5}{\ignorespaces ตารางเก็บข้อมูล User\relax }}{23}{table.caption.28}%
-\contentsline {table}{\numberline {3.6}{\ignorespaces ตารางเก็บข้อมูล Test\relax }}{23}{table.caption.29}%
-\contentsline {table}{\numberline {3.7}{\ignorespaces ตารางเก็บข้อมูล Classification\relax }}{23}{table.caption.30}%
-\contentsline {table}{\numberline {3.8}{\ignorespaces ตารางเก็บข้อมูล Prediction\relax }}{24}{table.caption.31}%
-\contentsline {table}{\numberline {3.9}{\ignorespaces ตารางเก็บข้อมูล Prediction\relax }}{24}{table.caption.32}%
-\contentsline {table}{\numberline {3.10}{\ignorespaces Use case narrative ของการทำแบบทดสอบ\relax }}{26}{table.caption.34}%
-\contentsline {table}{\numberline {3.11}{\ignorespaces Use case narrative ของการดูผลลัพธ์การทดสอบ\relax }}{29}{table.caption.37}%
-\contentsline {table}{\numberline {3.12}{\ignorespaces Use case narrative ของการดูข้อมูลสถิติในแอปพลิเคชัน\relax }}{31}{table.caption.39}%
-\contentsline {table}{\numberline {3.13}{\ignorespaces Use case narrative ของการเข้าสู่ระบบ\relax }}{33}{table.caption.41}%
-\contentsline {table}{\numberline {3.14}{\ignorespaces Use case narrative การแก้ไขผลลัพธ์รายบุคคล\relax }}{35}{table.caption.43}%
-\contentsline {table}{\numberline {3.15}{\ignorespaces Use case narrative ของการสมัครสมาชิก\relax }}{39}{table.caption.46}%
+\contentsline {table}{\numberline {3.1}{\ignorespaces แสดงข้อมูลขาเข้า และขาออกของ แอปพลิเคชัน\relax }}{20}{table.caption.19}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces แสดงข้อมูลขาเข้า และขาออกของส่วนการประมวลผลภาพ\relax }}{20}{table.caption.21}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces แสดงข้อมูลขาเข้า และขาออกของส่วนการแยกภาพ\relax }}{20}{table.caption.23}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces แสดงข้อมูลขาเข้า และขาออกของส่วนการวินิจฉัย\relax }}{21}{table.caption.25}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces ตารางเก็บข้อมูล User\relax }}{24}{table.caption.28}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces ตารางเก็บข้อมูล Test\relax }}{24}{table.caption.29}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces ตารางเก็บข้อมูล Classification\relax }}{24}{table.caption.30}%
+\contentsline {table}{\numberline {3.8}{\ignorespaces ตารางเก็บข้อมูล Prediction\relax }}{25}{table.caption.31}%
+\contentsline {table}{\numberline {3.9}{\ignorespaces ตารางเก็บข้อมูล Prediction\relax }}{25}{table.caption.32}%
+\contentsline {table}{\numberline {3.10}{\ignorespaces Use case narrative ของการทำแบบทดสอบ\relax }}{27}{table.caption.34}%
+\contentsline {table}{\numberline {3.11}{\ignorespaces Use case narrative ของการดูผลลัพธ์การทดสอบ\relax }}{30}{table.caption.37}%
+\contentsline {table}{\numberline {3.12}{\ignorespaces Use case narrative ของการดูข้อมูลสถิติในแอปพลิเคชัน\relax }}{32}{table.caption.39}%
+\contentsline {table}{\numberline {3.13}{\ignorespaces Use case narrative ของการเข้าสู่ระบบ\relax }}{34}{table.caption.41}%
+\contentsline {table}{\numberline {3.14}{\ignorespaces Use case narrative การแก้ไขผลลัพธ์รายบุคคล\relax }}{36}{table.caption.43}%
+\contentsline {table}{\numberline {3.15}{\ignorespaces Use case narrative ของการสมัครสมาชิก\relax }}{40}{table.caption.46}%
 \addvspace {0em}
-\contentsline {table}{\numberline {4.1}{\ignorespaces Confusion Matrix ของโมเดลตัวอักษรที่ 1 (ก,ง,ฒ,ย)\relax }}{72}{table.caption.90}%
-\contentsline {table}{\numberline {4.2}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลตัวอักษรที่ 1 (ก,ง,ฒ,ย) \relax }}{72}{table.caption.91}%
-\contentsline {table}{\numberline {4.3}{\ignorespaces Confusion Matrix ของโมเดลตัวอักษรที่ 2 (ข,ญ,ภ,ล,ษ,ฬ)\relax }}{73}{table.caption.92}%
-\contentsline {table}{\numberline {4.4}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลตัวอักษรที่ 2 (ข,ญ,ภ,ล,ษ,ฬ) \relax }}{73}{table.caption.93}%
-\contentsline {table}{\numberline {4.5}{\ignorespaces Confusion Matrix ของโมเดลตัวอักษรที่ 3 (ฆ,จ,ฌ,ฟ,ส,ห,อ)\relax }}{74}{table.caption.94}%
-\contentsline {table}{\numberline {4.6}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลตัวอักษรที่ 3 (ฆ,จ,ฌ,ฟ,ส,ห,อ) \relax }}{74}{table.caption.95}%
-\contentsline {table}{\numberline {4.7}{\ignorespaces Confusion Matrix ของโมเดลตัวอักษรที่ 4 (ฉ,ถ,น,พ,ม,ว)\relax }}{75}{table.caption.96}%
-\contentsline {table}{\numberline {4.8}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลตัวอักษรที่ 4 (ฉ,ถ,น,พ,ม,ว) \relax }}{75}{table.caption.97}%
-\contentsline {table}{\numberline {4.9}{\ignorespaces Confusion Matrix ของโมเดลตัวอักษรที่ 5 (ช,ซ,ผ,ฝ)\relax }}{76}{table.caption.98}%
-\contentsline {table}{\numberline {4.10}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลตัวอักษรที่ 5 (ช,ซ,ผ,ฝ) \relax }}{76}{table.caption.99}%
-\contentsline {table}{\numberline {4.11}{\ignorespaces Confusion Matrix ของโมเดลตัวอักษรที่ 6 (ค,ฅ,ด,ต,ศ)\relax }}{77}{table.caption.100}%
-\contentsline {table}{\numberline {4.12}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลตัวอักษรที่ 6 (ค,ฅ,ด,ต,ศ) \relax }}{77}{table.caption.101}%
-\contentsline {table}{\numberline {4.13}{\ignorespaces Confusion Matrix ของโมเดลตัวอักษรที่ 7 (ฎ,ฏ,ฐ)\relax }}{78}{table.caption.102}%
-\contentsline {table}{\numberline {4.14}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลตัวอักษรที่ 7 (ฎ,ฏ,ฐ) \relax }}{78}{table.caption.103}%
-\contentsline {table}{\numberline {4.15}{\ignorespaces Confusion Matrix ของโมเดลตัวอักษรที่ 8 (ฃ,ฑ,ณ,ท,ฮ)\relax }}{79}{table.caption.104}%
-\contentsline {table}{\numberline {4.16}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลตัวอักษรที่ 8 (ฃ,ฑ,ณ,ท,ฮ)\relax }}{79}{table.caption.105}%
-\contentsline {table}{\numberline {4.17}{\ignorespaces Confusion Matrix ของโมเดลตัวอักษรที่ 9 (ธ,บ,ป,ร)\relax }}{80}{table.caption.106}%
-\contentsline {table}{\numberline {4.18}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลตัวอักษรที่ 9 (ธ,บ,ป,ร) \relax }}{80}{table.caption.107}%
-\contentsline {table}{\numberline {4.19}{\ignorespaces Confusion Matrix ของโมเดลสระที่ 1 (-ั , -็ , -๊ , -์ , ไ-)\relax }}{81}{table.caption.108}%
-\contentsline {table}{\numberline {4.20}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลสระที่ 1 (-ั , -็ , -๊ , -์ , ไ-) \relax }}{81}{table.caption.109}%
-\contentsline {table}{\numberline {4.21}{\ignorespaces Confusion Matrix ของโมเดลสระที่ 2 (-า , -ี , -ึ , -๋ , แ- , ใ-)\relax }}{82}{table.caption.110}%
-\contentsline {table}{\numberline {4.22}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลสระที่ 2 (-า , -ี , -ึ , -๋ , แ- , ใ-) \relax }}{82}{table.caption.111}%
-\contentsline {table}{\numberline {4.23}{\ignorespaces Confusion Matrix ของโมเดลสระที่ 3 ( -ื , -ุ , -ู , -้ , เ-)\relax }}{83}{table.caption.112}%
-\contentsline {table}{\numberline {4.24}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลสระที่ 3 ( -ื , -ุ , -ู , -้ , เ-) \relax }}{83}{table.caption.113}%
-\contentsline {table}{\numberline {4.25}{\ignorespaces Confusion Matrix ของโมเดลสระที่ 4 (-ะ , -ำ , -ิ , -่ , โ-)\relax }}{84}{table.caption.114}%
-\contentsline {table}{\numberline {4.26}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลสระที่ 4 (-ะ , -ำ , -ิ , -่ , โ-) \relax }}{84}{table.caption.115}%
-\contentsline {table}{\numberline {4.27}{\ignorespaces Confusion Matrix ของโมเดลสระที่ 5 (ฤ,ฤๅ,ฦ,ฦๅ)\relax }}{85}{table.caption.116}%
-\contentsline {table}{\numberline {4.28}{\ignorespaces ภาพค่าตัวชี้วัดความแม่นยําโมเดลสระที่ 5 (ฤ,ฤๅ,ฦ,ฦๅ) \relax }}{85}{table.caption.117}%
-\contentsline {table}{\numberline {4.29}{\ignorespaces แบบสอบถามบุคลากรทางการแพทย์\relax }}{91}{table.caption.127}%
-\contentsline {table}{\numberline {4.30}{\ignorespaces แบบสอบถามผู้เข้าร่วมทำแบบทดสอบ\relax }}{91}{table.caption.128}%
+\contentsline {table}{\numberline {4.1}{\ignorespaces Confusion Matrix (a) และMetric (b) ของโมเดลตัวอักษรที่ 1 (ก ง ฒ และ ย)\relax }}{75}{table.caption.93}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Confusion Matrix (a) และMetric (b) ของโมเดลตัวอักษรที่ 2 (ข ญ ภ ล ษ และ ฬ)\relax }}{75}{table.caption.94}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Confusion Matrix (a) และMetric (b) ของโมเดลตัวอักษรที่ 3 (ฆ จ ฌ ฟ ส ห และ อ)\relax }}{76}{table.caption.95}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Confusion Matrix (a) และMetric (b) ของโมเดลตัวอักษรที่ 4 (ฉ ถ น พ ม และ ว)\relax }}{76}{table.caption.96}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces Confusion Matrix (a) และMetric (b) ของโมเดลตัวอักษรที่ 5 (ช ซ ผ และ ฝ)\relax }}{76}{table.caption.97}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces Confusion Matrix (a) และMetric (b) ของโมเดลตัวอักษรที่ 6 (ค ฅ ด ต และ ศ)\relax }}{77}{table.caption.98}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces Confusion Matrix (a) และMetric (b) ของโมเดลตัวอักษรที่ 7 (ฎ ฏ และ ฐ)\relax }}{77}{table.caption.99}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces Confusion Matrix (a) และMetirc (b) ของโมเดลตัวอักษรที่ 8 (ฃ ฑ ณ ท และ ฮ)\relax }}{77}{table.caption.100}%
+\contentsline {table}{\numberline {4.9}{\ignorespaces Confusion Matrix (a) และMetric (b) ของโมเดลตัวอักษรที่ 9 (ธ บ ป และ ร)\relax }}{78}{table.caption.101}%
+\contentsline {table}{\numberline {4.10}{\ignorespaces Confusion Matrix (a) และMetric (b) ของโมเดลสระที่ 1 (-ิ -ี -ึ และ -ื)\relax }}{80}{table.caption.104}%
+\contentsline {table}{\numberline {4.11}{\ignorespaces Confusion Matrix (a) และMetric (b) ของโมเดลสระที่ 2 (-ั -็ -่ -้ -๊ -๋ และ -์)\relax }}{80}{table.caption.105}%
+\contentsline {table}{\numberline {4.12}{\ignorespaces Confusion Matrix (a) และMetric (b) ของโมเดลสระที่ 3 (-ะ เ- แ- โ- ใ- และ ไ-)\relax }}{80}{table.caption.106}%
+\contentsline {table}{\numberline {4.13}{\ignorespaces Confusion Matrix (a) และMetric (b) ของโมเดลสระที่ 4 (-า -ำ -ุ และ -ู)\relax }}{81}{table.caption.107}%
+\contentsline {table}{\numberline {4.14}{\ignorespaces Confusion Matrix (a) และMetric (b) ของโมเดลสระที่ 5 (ฤ ฤๅ ฦ และ ฦๅ)\relax }}{81}{table.caption.108}%
+\contentsline {table}{\numberline {4.15}{\ignorespaces Confusion Matrix ของการจำแนกตัวอักษร\relax }}{82}{table.caption.109}%
+\contentsline {table}{\numberline {4.16}{\ignorespaces Confusion Matrix ของการจำแนกสระ\relax }}{84}{table.caption.113}%
+\contentsline {table}{\numberline {4.17}{\ignorespaces Confusion Matrix ของการจำแนกคำสะกด\relax }}{86}{table.caption.117}%
+\contentsline {table}{\numberline {4.18}{\ignorespaces ผลความคิดเห็นจากบุคลากรทางการแพทย์\relax }}{88}{table.caption.121}%
+\contentsline {table}{\numberline {4.19}{\ignorespaces ผลความคิดเห็นจากผู้เข้าร่วมทำแบบทดสอบ\relax }}{89}{table.caption.122}%
 \addvspace {0em}
-\contentsline {table}{\numberline {5.1}{\ignorespaces แสดงระบบของแอปพลิเคชัน\relax }}{92}{table.caption.129}%
+\contentsline {table}{\numberline {5.1}{\ignorespaces แสดงระบบของแอปพลิเคชัน\relax }}{90}{table.caption.123}%

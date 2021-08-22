@@ -81,6 +81,7 @@
 \def\thaiworktype{}
 \def\thaidisstitleone{}
 \def\thaidisstitletwo{}
+\def\thaidisstitlethree{}
 \def\thaidisauthor{}
 \def\thaidisauthortwo{}
 \def\thaidisauthorthree{}
@@ -390,6 +391,9 @@
    \ifx \titleempty\disstitletwo \else  
    \makebox{\MakeUppercase{\disstitletwo}} \par
    \fi
+   \ifx \titleempty\disstitlethree \else  
+   \makebox{\MakeUppercase{\disstitlethree}} \par
+   \fi
    \vfill \MakeUppercase{\dissauthor} \par 
    
    \ifx \titleempty\dissauthortwo \else  
@@ -426,6 +430,9 @@
    \makebox {\disstitleone} \par 
    \ifx \titleempty\disstitletwo \else  
    \makebox{\disstitletwo} \par
+   \fi
+   \ifx \titleempty\disstitlethree \else  
+   \makebox{\disstitlethree} \par
    \fi
    %\makebox {\disstitletwo} \par
    %\makebox {\disstitlethree} \par \makebox {\disstitlefour} \par
@@ -497,6 +504,9 @@
 \ifx \titleempty\disstitletwo \else
               & \disstitletwo \\
 \fi
+\ifx \titleempty\disstitlethree \else
+              & \disstitlethree \\
+\fi
 Credits & \disscredit \\
  Member(s) & \dissauthor \\
 \ifx \titleempty\dissauthortwo \else
@@ -536,6 +546,11 @@ Credits & \disscredit \\
 \ifx \titleempty\thaidisstitletwo \else
               & \thaidisstitletwo \\
 \fi
+  
+\ifx \titleempty\thaidisstitlethree \else
+              & \thaidisstitlethree \\
+\fi
+
  \textthai{หน่วยกิต} & \textthai{\disscredit} \\
  \textthai{ผู้เขียน} & \thaidissauthor \\
  \ifx \titleempty\thaidissauthortwo \else
